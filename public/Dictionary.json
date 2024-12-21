@@ -72,6 +72,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Abominable",
+        "Definition": "\u2022 causing moral revulsion.\r\n\u2022 very bad or unpleasant.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Abound",
         "Definition": "exist in large numbers or amounts.",
         "Right": 0,
@@ -80,6 +86,12 @@
     {
         "Word": "Aboveboard",
         "Definition": "honest. legitimate, honest, and open.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Abreast ",
+        "Definition": "\u2022 side by side and facing the same way.\r\n\u2022 alongside or even with something.\r\n\u2022 up to date with the latest news, ideas, or information",
         "Right": 0,
         "Wrong": 0
     },
@@ -156,6 +168,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Accretion",
+        "Definition": "\u2022 the process of growth or increase, typically by the\u00a0gradual\u00a0accumulation of additional layers or matter\r\n\u2022 a thing formed or added by gradual growth or increase.\r\n\u2022 the coming together and cohesion of matter under the influence of gravitation to form larger bodie",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Acephalous",
         "Definition": "not having a head. (an acephalous skeleton)\r\n having no leader or chief.",
         "Right": 0,
@@ -228,6 +246,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Adjourn",
+        "Definition": "\u2022 break off (a meeting, legal case, or game) with the intention of resuming it later.\r\n\u2022 put off or postpone (a resolution or sentence).",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Adjudicate",
         "Definition": "\u2022 Warn. \r\n\u2022 Warn or reprimand someone firmly.\r\n\u2022 Advise or urge (someone) earnestly.",
         "Right": 0,
@@ -282,6 +306,12 @@
         "Wrong": 1
     },
     {
+        "Word": "Adversarial",
+        "Definition": "\u2022 involving or characterized by conflict or opposition.\r\n\u2022 opposed; hostile.\r\n\u2022 (of a trial or legal procedure) in which the parties in a dispute have the responsibility for finding and presenting evidence.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Adversary",
         "Definition": "One's opponent in a contest, conflict, or dispute.",
         "Right": 0,
@@ -314,6 +344,12 @@
     {
         "Word": "Affable",
         "Definition": "Likeable. friendly, good-natured, or easy to talk to. (not to be confused with Effable)",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Affair",
+        "Definition": "\u2022 an event or sequence of events of a specified kind or that has previously been referred to.\r\n\u2022 a sexual relationship between two people, one or both of whom are married to or in a long-term relationship with someone else.\r\n\u2022 a matter that is a particular person's concern or responsibility.\r\n\u2022 matters of public interest and importance.\r\n\u2022 business and financial dealings.\r\n\u2022 an object of a particular type.",
         "Right": 0,
         "Wrong": 0
     },
@@ -390,8 +426,26 @@
         "Wrong": 0
     },
     {
+        "Word": "Agog",
+        "Definition": "very eager or curious to hear or see something.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Ail",
+        "Definition": "trouble or afflict (someone) in mind or body. (Alieth)",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Alacrity",
         "Definition": "eager willingness. brisk and cheerful readiness.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Alight",
+        "Definition": "\u2022 descend from a train, bus, or other form of transport\r\n\u2022 To come down and settle, often used to describe birds or insects landing.\r\n\u2022 On fire or ablaze.\r\n\u2022 Illuminated, as in a place being lit up or brightened.",
         "Right": 0,
         "Wrong": 0
     },
@@ -404,6 +458,18 @@
     {
         "Word": "Alleviate",
         "Definition": "make (suffering, deficiency, or a problem) less severe.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Allot",
+        "Definition": "\u2022 to assign as a share or portion\r\n\u2022  distribute it among individuals or groups by chance or through a random selection process.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Allure",
+        "Definition": "\u2022 the quality of being powerfully and mysteriously attractive or fascinating.\r\n\u2022 powerfully attract or charm; tempt.",
         "Right": 0,
         "Wrong": 0
     },
@@ -463,7 +529,7 @@
     },
     {
         "Word": "Amenable",
-        "Definition": "Easily persuaded. Cooperative. (of a person) open and responsive to suggestion; easily persuaded or controlled",
+        "Definition": "Easily persuaded. Cooperative. (of a person) open and responsive to suggestion; easily persuaded or controlled (not to be confused with Amiable)",
         "Right": 0,
         "Wrong": 0
     },
@@ -487,7 +553,7 @@
     },
     {
         "Word": "Amicable",
-        "Definition": "(of relations between people) having a spirit of friendliness; without serious disagreement or rancor",
+        "Definition": "(of relations between people) having a spirit of friendliness; without serious disagreement or rancor (not to be confused with amenable)",
         "Right": 0,
         "Wrong": 0
     },
@@ -618,6 +684,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Antecedent",
+        "Definition": "\u2022 a thing or event that existed before or logically precedes another.\r\n\u2022 preceding in time or order; previous or preexisting.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Antedate",
         "Definition": "Precede",
         "Right": 0,
@@ -661,7 +733,7 @@
     },
     {
         "Word": "Antithetical",
-        "Definition": "directly opposed or contrasted; mutually incompatible.",
+        "Definition": "\u2022 directly opposed or contrasted; mutually incompatible.\r\n\u2022 connected with, containing, or using the rhetorical device of antithesis.",
         "Right": 0,
         "Wrong": 0
     },
@@ -740,6 +812,12 @@
     {
         "Word": "Apotheosis",
         "Definition": "height of development. the highest point in the development of something; culmination or climax.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Apparatus",
+        "Definition": "\u2022 the technical equipment or machinery needed for a particular activity or purpose.\r\n\u2022 a complex structure within an organization or system.",
         "Right": 0,
         "Wrong": 0
     },
@@ -894,6 +972,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Arete",
+        "Definition": "\u2022 the aggregate of qualities, as valor and virtue, making up good character\r\n\u2022 Exceptional skill or proficiency in a particular field or activity.\r\n\u2022 The realization of one's true potential or function; achieving the best possible state of being\r\n\u2022 a sharp mountain ridge.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Armistice",
         "Definition": "an agreement made by opposing sides in a war to stop fighting for a certain time; a truce.",
         "Right": 0,
@@ -938,6 +1022,12 @@
     {
         "Word": "Artful",
         "Definition": "Clever and deceptive. (of a person or action) clever or skillful, typically in a crafty or cunning way.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Article",
+        "Definition": "\u2022 a particular item or object.\r\n\u2022 a piece of writing included with others in a newspaper, magazine, or other print or online publication.\r\n\u2022 bind by the terms of a contract, as one of apprenticeship.",
         "Right": 0,
         "Wrong": 0
     },
@@ -998,6 +1088,12 @@
     {
         "Word": "Askance",
         "Definition": "Suspiciously. with an attitude or look of suspicion or disapproval",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Askew",
+        "Definition": "\u2022 not in a straight or level position.\r\n\u2022 wrong; awry.",
         "Right": 0,
         "Wrong": 0
     },
@@ -1086,6 +1182,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Attest",
+        "Definition": "\u2022 to affirm to be true or genuine\r\n\u2022 to authenticate officially\r\n\u2022 to establish or verify the usage of\r\n\u2022 to be proof of\r\n\u2022 to put on oath",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Audacious",
         "Definition": "showing a willingness to take surprisingly bold risks.",
         "Right": 0,
@@ -1165,7 +1267,7 @@
     },
     {
         "Word": "Avert",
-        "Definition": "Prevent.\r\nturn away (one's eyes or thoughts).\r\nprevent or ward off (an undesirable occurrence).",
+        "Definition": "\u2022 Prevent.\r\n\u2022 turn away (one's eyes or thoughts).\r\n\u2022 prevent or ward off (an undesirable occurrence).",
         "Right": 0,
         "Wrong": 0
     },
@@ -1176,8 +1278,26 @@
         "Wrong": 0
     },
     {
+        "Word": "Awry",
+        "Definition": "\u2022 away from the appropriate, planned, or expected course; amiss.\r\n\u2022 out of the normal or correct position; askew.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Bacchanal",
+        "Definition": "an occasion of wild and drunken revelry.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Badger",
         "Definition": "repeatedly ask (someone) to do something; pester.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Baffle",
+        "Definition": "\u2022 to confuse, bewilder\r\n\u2022 To prevent something from progressing or advancing smoothly by creating obstacles or difficulties.\r\n\u2022 a device (such as a plate, wall, or screen) to deflect, check, or regulate flow or passage (as of a fluid, light, or sound)",
         "Right": 0,
         "Wrong": 0
     },
@@ -1190,6 +1310,12 @@
     {
         "Word": "Balk",
         "Definition": "hesitate or be unwilling to accept an idea or undertaking.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Balmy",
+        "Definition": "\u2022 (of the weather) pleasantly warm.\r\n\u2022 extremely foolish; eccentric.",
         "Right": 0,
         "Wrong": 0
     },
@@ -1212,6 +1338,18 @@
         "Wrong": 0
     },
     {
+        "Word": "Bar",
+        "Definition": "\u2022 fasten (something, especially a door or window) with a bar or bars.\r\n\u2022 prevent or prohibit (someone) from doing something or from going somewhere.\r\n\u2022 forbid (an activity) to someone.\r\n\u2022 exclude (something) from consideration.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Bared",
+        "Definition": "uncover (a part of the body or other thing) and expose it to view.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Baroque",
         "Definition": "relating to or denoting a style of European architecture, music, and art of the 17th and 18th centuries that followed mannerism and is characterized by ornate detail.",
         "Right": 0,
@@ -1219,7 +1357,13 @@
     },
     {
         "Word": "Barrage",
-        "Definition": "bombard (someone) with something.",
+        "Definition": "\u2022 a concentrated artillery bombardment over a wide area.\r\n\u2022 bombard (someone) with something.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Barred",
+        "Definition": "closed or secured with a long rod or rigid piece of wood, metal, or similar material.\r\nmarked with bands of color or light.",
         "Right": 0,
         "Wrong": 0
     },
@@ -1242,6 +1386,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Bawl",
+        "Definition": "\u2022 weep or cry noisily.\r\n\u2022 shout or call out noisily and unrestrainedly.\r\n\u2022 a loud, unrestrained shout.'",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Beatific",
         "Definition": "blissfully happy",
         "Right": 0,
@@ -1250,6 +1400,12 @@
     {
         "Word": "Becoming",
         "Definition": "Suitable, appropriate",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Beget",
+        "Definition": "\u2022 (typically of a man, sometimes of a man and a woman) bring (a child) into existence by the process of reproduction.\r\n\u2022 give rise to; bring about.",
         "Right": 0,
         "Wrong": 0
     },
@@ -1315,7 +1471,7 @@
     },
     {
         "Word": "Beneficent",
-        "Definition": "(of a person) generous or doing good.\r\n resulting in good.",
+        "Definition": "\u2022 (of a person) generous or doing good.\r\n\u2022 resulting in good.",
         "Right": 0,
         "Wrong": 0
     },
@@ -1327,7 +1483,7 @@
     },
     {
         "Word": "Benighted",
-        "Definition": "Ignorant.\r\nin a state of pitiful or contemptible intellectual or moral ignorance, typically owing to a lack of opportunity.",
+        "Definition": "\u2022 Ignorant.\r\n\u2022 In a state of pitiful or contemptible intellectual or moral ignorance, typically owing to a lack of opportunity.",
         "Right": 0,
         "Wrong": 0
     },
@@ -1357,7 +1513,7 @@
     },
     {
         "Word": "Bereaved",
-        "Definition": "\u2022 deprived of a close relation or friend through their death.",
+        "Definition": "deprived of a close relation or friend through their death.",
         "Right": 0,
         "Wrong": 0
     },
@@ -1422,6 +1578,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Bide",
+        "Definition": "remain or stay somewhere.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Bifurcated",
         "Definition": "divide into two branches or forks.",
         "Right": 0,
@@ -1435,7 +1597,7 @@
     },
     {
         "Word": "Bilious",
-        "Definition": "affected by or associated with nausea or vomiting.\r\n (of a color) lurid or sickly.\r\n spiteful; bad-tempered",
+        "Definition": "\u2022 affected by or associated with nausea or vomiting.\r\n\u2022 (of a color) lurid or sickly.\r\n\u2022 spiteful; bad-tempered",
         "Right": 0,
         "Wrong": 0
     },
@@ -1518,6 +1680,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Borne",
+        "Definition": "\u2022 past participle of bear. \r\n\u2022 carry the weight of; support.\r\n\u2022 take responsibility for.\r\n\u2022 be able to accept or stand up to.\r\n\u2022 endure (an ordeal or difficulty).\r\n\u2022 manage to tolerate (a situation or experience).\r\n\u2022 carried or transported by the thing specified.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Bowdlerize",
         "Definition": "Censor. remove material that is considered improper or offensive from (a text or account), especially with the result that the text becomes weaker or less effective.",
         "Right": 0,
@@ -1536,8 +1704,20 @@
         "Wrong": 0
     },
     {
+        "Word": "Brevity",
+        "Definition": "\u2022 concise and exact use of words in writing or speech.\r\n\u2022 shortness of time.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Bridle",
         "Definition": "restrain. show one's resentment or anger, especially by throwing up the head and drawing in the chin.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Brigand",
+        "Definition": "a member of a gang that ambushes and robs people in forests and mountains.",
         "Right": 0,
         "Wrong": 0
     },
@@ -1621,7 +1801,19 @@
     },
     {
         "Word": "Burgess",
-        "Definition": "an inhabitant of a town or borough with full rights of citizenship.\r\n a Member of Parliament for a borough, corporate town, or university",
+        "Definition": "\u2022 an inhabitant of a town or borough with full rights of citizenship.\r\n\u2022 a Member of Parliament for a borough, corporate town, or university",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Burlesque",
+        "Definition": "\u2022 an\u00a0absurd\u00a0or\u00a0comically\u00a0exaggerated\u00a0imitation of something, especially in a literary or dramatic work; a parody.\r\n\u2022 a variety show, typically including striptease.\r\n\u2022 cause to appear absurd by parodying or copying in an exaggerated form.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Burly",
+        "Definition": "(of a person) large and strong; heavily built.",
         "Right": 0,
         "Wrong": 0
     },
@@ -1680,6 +1872,18 @@
         "Wrong": 0
     },
     {
+        "Word": "Callipygian ",
+        "Definition": "having well-shaped buttocks",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Callipygous",
+        "Definition": "pertaining to or having finely developed buttocks",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Callous",
         "Definition": "showing or having an insensitive and cruel disregard for others.",
         "Right": 0,
@@ -1722,6 +1926,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Canonical",
+        "Definition": "\u2022 according to or ordered by canon law\r\n\u2022 included in the list of sacred books officially accepted as genuine.\r\n\u2022 the prescribed official dress of the clergy.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Canonize",
         "Definition": "(in the Roman Catholic Church) officially declare (a dead person) to be a saint. place in or regard as belonging to a canon of literary or artistic works.",
         "Right": 0,
@@ -1736,6 +1946,12 @@
     {
         "Word": "Canty",
         "Definition": "cheerful, sprightly",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Capitonym",
+        "Definition": "a word that changes its meaning (and sometimes pronunciation) when it is capitalized; the capitalization usually applies due to one form being a proper noun or eponym",
         "Right": 0,
         "Wrong": 0
     },
@@ -1777,7 +1993,7 @@
     },
     {
         "Word": "Cascade",
-        "Definition": "A small waterfall, typically of several that fall in stages down a steep rocky slope\r\n A process whereby something, typically information or knowledge, is successively passed on",
+        "Definition": "\u2022 A small waterfall, typically of several that fall in stages down a steep rocky slope\r\n\u2022 A process whereby something, typically information or knowledge, is successively passed on",
         "Right": 0,
         "Wrong": 0
     },
@@ -1838,6 +2054,12 @@
     {
         "Word": "Celerity",
         "Definition": "Quickness",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Celestial",
+        "Definition": "\u2022 positioned in or relating to the sky, or outer space as observed in astronomy.\r\n\u2022 belonging or relating to heaven.\r\n\u2022 supremely good.",
         "Right": 0,
         "Wrong": 0
     },
@@ -1909,7 +2131,7 @@
     },
     {
         "Word": "Chastise",
-        "Definition": "Cautious. cautiously or suspiciously reluctant to do something.",
+        "Definition": "\u2022 rebuke or reprimand severely.\r\n\u2022 punish, especially by beating.",
         "Right": 0,
         "Wrong": 0
     },
@@ -2004,8 +2226,20 @@
         "Wrong": 0
     },
     {
+        "Word": "Circumstantial",
+        "Definition": "\u2022 pointing\u00a0indirectly\u00a0toward someone's\u00a0guilt\u00a0but not\u00a0conclusively\u00a0proving\u00a0it.\r\n\u2022 (of a description) containing full details.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Circumvent",
         "Definition": "\u2022 Find a way around (an obstacle). \r\n\u2022 Get out of duty. find a way around (an obstacle). Deceit outwit",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Clairvoyant",
+        "Definition": "\u2022 a person who claims to have a supernatural ability to perceive events in the future or beyond normal sensory contact.\r\n\u2022 having or exhibiting an ability to perceive events in the future or beyond normal sensory contact.",
         "Right": 0,
         "Wrong": 0
     },
@@ -2024,6 +2258,18 @@
     {
         "Word": "Clemency",
         "Definition": "mercy; lenience.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Clientele",
+        "Definition": "\u2022 clients collectively.\r\n\u2022 the customers of a shop, bar, or place of entertainment.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Clout",
+        "Definition": "\u2022 a heavy blow with the hand or a hard object.\r\n\u2022 influence or power, especially in politics or business.\r\n\u2022 hit hard with the hand or a hard object.\r\n\u2022 a piece of cloth or clothing, especially one used as a patch.\r\n\u2022 a target used in long-distance shooting, placed flat on the ground with a flag marking its center.",
         "Right": 0,
         "Wrong": 0
     },
@@ -2076,6 +2322,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Coin",
+        "Definition": "\u2022 a flat, typically round piece of metal with an official stamp, used as money.\r\n\u2022 money in the form of coins.\r\n\u2022 make (coins) by stamping metal.\r\n\u2022 invent or devise (a new word or phrase).",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Collaborate",
         "Definition": "work jointly on an activity, especially to produce or create something.",
         "Right": 0,
@@ -2120,6 +2372,12 @@
     {
         "Word": "Combative",
         "Definition": "ready or eager to fight; pugnacious.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Comeuppance",
+        "Definition": "a punishment or fate that someone deserves.",
         "Right": 0,
         "Wrong": 0
     },
@@ -2310,14 +2568,26 @@
         "Wrong": 0
     },
     {
+        "Word": "Confectionery",
+        "Definition": "\u2022 sweet foods (such as candy or pastry)\r\n\u2022 a confectioner's shop\r\n\u2022 the confectioner's art or business",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Confederate",
         "Definition": "joined by an agreement or treaty.",
         "Right": 0,
         "Wrong": 0
     },
     {
+        "Word": "Confer",
+        "Definition": "\u2022 grant or bestow (a title, degree, benefit, or right).\r\n\u2022 have discussions; exchange opinions.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Confide",
-        "Definition": "tell someone about a secret or private matter while trusting them not to repeat it to others.\r\n trust (someone) enough to tell them of a secret or private matter.",
+        "Definition": "\u2022 tell someone about a secret or private matter while trusting them not to repeat it to others.\r\n\u2022 trust (someone) enough to tell them of a secret or private matter.",
         "Right": 0,
         "Wrong": 0
     },
@@ -2438,6 +2708,18 @@
     {
         "Word": "Consternation",
         "Definition": "feelings of anxiety or dismay, typically at something unexpected.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Constituent",
+        "Definition": "\u2022 A part or component of something larger\r\n\u2022 having the power to create a government or frame or amend a constitution",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Constitute",
+        "Definition": "\u2022 be (a part) of a whole.\r\n\u2022 give legal or constitutional form to (an institution); establish by law.\r\n\u2022 be or be equivalent to (something).",
         "Right": 0,
         "Wrong": 0
     },
@@ -2676,6 +2958,18 @@
         "Wrong": 0
     },
     {
+        "Word": "Corrugate",
+        "Definition": "contract or cause to contract into wrinkles or folds.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Corrugated",
+        "Definition": "(of a material, surface, or structure) shaped into alternate ridges and grooves.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Coruscate",
         "Definition": "(of light) flash or sparkle.",
         "Right": 0,
@@ -2718,6 +3012,18 @@
         "Wrong": 0
     },
     {
+        "Word": "Courtesy",
+        "Definition": "\u2022 the showing of politeness in one's attitude and behavior toward others.\r\n\u2022 a polite speech or action, especially one required by convention. \r\n\u2022 (especially of transport) supplied free of charge to people who are already paying for another service.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Couth",
+        "Definition": "\u2022 cultured, refined, and well mannered.\r\n\u2022 good manners; refinement.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Covenant",
         "Definition": "a written agreement or promise",
         "Right": 0,
@@ -2744,6 +3050,12 @@
     {
         "Word": "Cow",
         "Definition": "intimidate",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Coy",
+        "Definition": "\u2022 (especially with reference to a woman) making a pretense of shyness or modesty that is intended to be alluring.\r\n\u2022 reluctant to give details, especially about something regarded as sensitive.\r\n\u2022 quiet and reserved; shy.",
         "Right": 0,
         "Wrong": 0
     },
@@ -2798,6 +3110,12 @@
     {
         "Word": "Crestfallen",
         "Definition": "Disappointed. sad and disappointed.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Cromulent",
+        "Definition": "acceptable or legitimate:",
         "Right": 0,
         "Wrong": 0
     },
@@ -2880,6 +3198,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Daft",
+        "Definition": "\u2022 silly; foolish.\r\n\u2022 infatuated with.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Dainty",
         "Definition": "\u2022 delicately small and pretty.\r\n\u2022 fastidious or difficult to please, typically concerning food.",
         "Right": 0,
@@ -2892,8 +3216,26 @@
         "Wrong": 1
     },
     {
+        "Word": "Dastardly",
+        "Definition": "dastard (a dishonorable or despicable person.) wicked and cruel.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Daunting",
         "Definition": "seeming difficult to deal with in anticipation; intimidating.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Davit",
+        "Definition": "a small crane on board a ship, especially one of a pair for suspending or lowering a lifeboat.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Dawdle",
+        "Definition": "\u2022 waste time; be slow.\r\n\u2022 move slowly and idly.",
         "Right": 0,
         "Wrong": 0
     },
@@ -2964,6 +3306,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Deciduous",
+        "Definition": "\u2022 (of a tree or shrub) shedding its leaves annually.\r\n\u2022 denoting the milk teeth of a mammal, which are shed after a time.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Decimation",
         "Definition": "the killing or destruction of a large proportion of a group or species.",
         "Right": 0,
@@ -2984,6 +3332,12 @@
     {
         "Word": "Decorum",
         "Definition": "behavior in keeping with good taste and propriety.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Decree",
+        "Definition": "\u2022 an official order issued by a legal authority.\r\n\u2022 order (something) by decree",
         "Right": 0,
         "Wrong": 0
     },
@@ -3014,6 +3368,12 @@
     {
         "Word": "Deferential",
         "Definition": "showing deference; respectful.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Defile",
+        "Definition": "\u2022 sully, mar, or spoil.\r\n\u2022 desecrate or profane (something sacred).\r\n\u2022 violate the chastity of (a woman).",
         "Right": 0,
         "Wrong": 0
     },
@@ -3114,14 +3474,20 @@
         "Wrong": 0
     },
     {
+        "Word": "Demented",
+        "Definition": "\u2022 behaving wildly and irrationally on account of anger, distress, or excitement.\r\n\u2022 affected with dementia.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Demur",
-        "Definition": "To object or show reluctance (Not to be confused by Demur)",
+        "Definition": "To object or show reluctance (Not to be confused by Demure)",
         "Right": 0,
         "Wrong": 0
     },
     {
         "Word": "Demure",
-        "Definition": "Modest, Shy. (Not to be confused with Demure)",
+        "Definition": "Modest, Shy. (Not to be confused with Demur )",
         "Right": 0,
         "Wrong": 0
     },
@@ -3324,6 +3690,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Diaphanous",
+        "Definition": "(especially of fabric) light, delicate, and translucent.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Diatribe",
         "Definition": "a forceful and bitter verbal attack against someone or something.",
         "Right": 0,
@@ -3356,6 +3728,12 @@
     {
         "Word": "Didactic",
         "Definition": "Instructive. intended to teach, particularly in having moral instruction as an ulterior motive. in the manner of a teacher, particularly so as to treat someone in a patronizing way.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Diegetic",
+        "Definition": "(of sound in a movie, television program, etc.) occurring within the context of the story and able to be heard by the characters.",
         "Right": 0,
         "Wrong": 0
     },
@@ -3426,6 +3804,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Dire",
+        "Definition": "\u2022 (of a situation or event) extremely serious or urgent.\r\n\u2022 (of a warning or threat) presaging disaster.\r\n\u2022 from Latin dirus \u2018fearful, threatening\u2019.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Directive",
         "Definition": "an official or authoritative instruction.",
         "Right": 0,
@@ -3458,6 +3842,12 @@
     {
         "Word": "Discern",
         "Definition": "\u2022 perceive or recognize (something).\r\n\u2022 distinguish (someone or something) with difficulty by sight or with the other senses.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Discernible",
+        "Definition": "able to be discerned; perceptible.",
         "Right": 0,
         "Wrong": 0
     },
@@ -3512,6 +3902,12 @@
     {
         "Word": "Discursive",
         "Definition": "tangential. digressing from subject to subject.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Disdain",
+        "Definition": "\u2022 the feeling that someone or something is unworthy of one's consideration or respect; contemp\r\n\u2022 consider to be unworthy of one's consideration.",
         "Right": 0,
         "Wrong": 0
     },
@@ -3642,6 +4038,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Dissident",
+        "Definition": "\u2022 a person who opposes official policy, especially that of an authoritarian state.\r\n\u2022 in opposition to official policy.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Dissimulation",
         "Definition": "concealment of one's thoughts, feelings, or character; pretense.",
         "Right": 0,
@@ -3698,6 +4100,12 @@
     {
         "Word": "Distressed",
         "Definition": "suffering from anxiety, sorrow, or pain. ",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Divine",
+        "Definition": "\u2022 of, from, or like God or a god.\r\n\u2022 excellent; delightful.\r\n\u2022 a cleric or theologian.\r\n\u2022 providence or God.",
         "Right": 0,
         "Wrong": 0
     },
@@ -3762,6 +4170,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Doozy",
+        "Definition": "something outstanding or unique of its kind.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Doughty",
         "Definition": "brave, bold. brave and persistent.",
         "Right": 0,
@@ -3770,6 +4184,12 @@
     {
         "Word": "Dovetail",
         "Definition": "Fit together tightly",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Dowdy",
+        "Definition": "(of a person or their clothes) unfashionable and without style in appearance (typically used of a woman).",
         "Right": 0,
         "Wrong": 0
     },
@@ -3810,8 +4230,26 @@
         "Wrong": 0
     },
     {
+        "Word": "Dubious",
+        "Definition": "\u2022 hesitating or doubting.\r\n\u2022 not to be relied upon; suspect.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Dulcet",
         "Definition": "(especially of sound) sweet and soothing.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Dullard",
+        "Definition": "a slow or stupid person.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Duly",
+        "Definition": "\u2022 in accordance with what is required or appropriate; following proper procedure or arrangement.\r\n\u2022 as might be expected or predicted.",
         "Right": 0,
         "Wrong": 0
     },
@@ -3996,6 +4434,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Egress",
+        "Definition": "\u2022 the action of going out of or leaving a place\r\n\u2022 a way out.\r\n\u2022 go out of or leave (a place).",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Eke",
         "Definition": "Scape by. make an amount or supply of something last longer by using or consuming it frugally. manage to support oneself or make a living with difficulty.",
         "Right": 0,
@@ -4034,6 +4478,12 @@
     {
         "Word": "Elicit",
         "Definition": "Call forth. draw forth (something that is latent or potential) into existence. evoke or draw out (a response, answer, or fact) from someone in reaction to one's own actions or questions. (not to be confused with Illicit)",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Elision",
+        "Definition": "\u2022 the omission of a sound or syllable when speaking (as in I'm, let's, e ' en ).\r\n\u2022 an omission of a passage in a book, speech, or film.\r\n\u2022 the process of joining together or merging things, especially abstract ideas",
         "Right": 0,
         "Wrong": 0
     },
@@ -4086,6 +4536,18 @@
         "Wrong": 0
     },
     {
+        "Word": "Embiggen",
+        "Definition": "to make bigger or more expansive : enlarge, expand.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Embolden",
+        "Definition": "\u2022 give (someone) the courage or confidence to do something or to behave in a certain way.\r\n\u2022 cause (a piece of text) to appear in a bold typeface.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Embroiled",
         "Definition": "In an argument\r\ninvolve (someone) deeply in an argument, conflict, or difficult situation.",
         "Right": 0,
@@ -4106,6 +4568,12 @@
     {
         "Word": "Empathetic",
         "Definition": "Relating to feelings of others",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Emphatic",
+        "Definition": "\u2022 forceful and clear\r\n\u2022 tending to express oneself in forceful speech or to take decisive action\r\n\u2022 attracting special attention\r\n\u2022  uttered with or marked by emphasis",
         "Right": 0,
         "Wrong": 0
     },
@@ -4218,8 +4686,32 @@
         "Wrong": 0
     },
     {
+        "Word": "Ennoble",
+        "Definition": "\u2022 give (someone) a noble rank or title.\r\n\u2022 lend greater dignity or nobility of character to.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Ennui",
+        "Definition": "a feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Enormity",
         "Definition": "great wickedness",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Enshrine",
+        "Definition": "\u2022 place (a revered or precious object) in an appropriate receptacle.\r\n\u2022 preserve (a right, tradition, or idea) in a form that ensures it will be protected and respected.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Entail",
+        "Definition": "\u2022 involve (something) as a necessary or inevitable part or consequence.\r\n\u2022 settle the inheritance of (property) over a number of generations so that ownership remains within a particular group, usually one family.",
         "Right": 0,
         "Wrong": 0
     },
@@ -4238,6 +4730,12 @@
     {
         "Word": "Entice",
         "Definition": "Tempt. attract or tempt by offering pleasure or advantage.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Entourage",
+        "Definition": "a group of people attending or surrounding an important person.",
         "Right": 0,
         "Wrong": 0
     },
@@ -4266,6 +4764,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Epenthesis",
+        "Definition": "the insertion of a sound or letter within a word, e.g. the b in thimble.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Ephemeral",
         "Definition": "\u2022 Lasting for a very short time.\r\n\u2022 Short lived (not to be confused with effervescent)",
         "Right": 1,
@@ -4280,6 +4784,12 @@
     {
         "Word": "Epiphany",
         "Definition": "Sudden realization",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Epiphenomenon",
+        "Definition": "\u2022 a secondary effect or byproduct that arises from but does not causally influence a process.\r\n\u2022 a secondary symptom, occurring simultaneously with a disease or condition but not directly related to it.\r\n\u2022 a mental state regarded as a byproduct of brain activity.",
         "Right": 0,
         "Wrong": 0
     },
@@ -4334,6 +4844,12 @@
     {
         "Word": "Eradicate",
         "Definition": "Destroy completely",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Ergo",
+        "Definition": "therefore",
         "Right": 0,
         "Wrong": 0
     },
@@ -4416,6 +4932,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Esteem",
+        "Definition": "\u2022 respect and admiration, typically for a person.\r\n\u2022 respect and admire.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Estimable",
         "Definition": "worthy of great respect.",
         "Right": 0,
@@ -4484,6 +5006,12 @@
     {
         "Word": "Evenhanded",
         "Definition": "Fair, unbiased. fair and impartial in treatment or judgment.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Evocative",
+        "Definition": "bringing strong images, memories, or feelings to mind.",
         "Right": 0,
         "Wrong": 0
     },
@@ -4568,6 +5096,12 @@
     {
         "Word": "Exhaustive",
         "Definition": "examining, including, or considering all elements or aspects; fully comprehensive.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Exhibitionist",
+        "Definition": "\u2022 a person who behaves in an extravagant way in order to attract attention.\r\n\u2022 a person who feels a compulsion to display their genitals or other intimate body parts or to behave sexually in public.\r\n\u2022 behaving extravagantly in order to attract attention.\r\n\u2022 having or showing a compulsion to display one's genitals or other intimate body parts or to behave sexually in public.",
         "Right": 0,
         "Wrong": 0
     },
@@ -4722,6 +5256,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Extradite",
+        "Definition": "hand over (a person accused or convicted of a crime) to the jurisdiction of the foreign state in which the crime was committed.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Extraneous",
         "Definition": "irrelevant or unrelated to the subject being dealt with. of external origin. separate from the object to which it is attached.",
         "Right": 0,
@@ -4760,6 +5300,12 @@
     {
         "Word": "Fabricate",
         "Definition": "invent or concoct (something), typically with deceitful intent.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Facet",
+        "Definition": "\u2022 one side of something many-sided, especially of a cut gem.\r\n\u2022 a particular aspect or feature of something.\r\n\u2022 any of the individual units (ommatidia) that make up the compound eye of an insect or crustacean.",
         "Right": 0,
         "Wrong": 0
     },
@@ -4818,6 +5364,18 @@
         "Wrong": 0
     },
     {
+        "Word": "Farce",
+        "Definition": "\u2022 a comic dramatic work using buffoonery and horseplay and typically including crude characterization and ludicrously improbable situations.\r\n\u2022 the genre of farce.\r\n\u2022 an absurd event.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Fast",
+        "Definition": "\u2022 .moving or capable of moving at high speed.\r\n\u2022 (of a clock or watch) showing a time ahead of the correct time\r\n\u2022 so as to be hard to move; securely.\r\n\u2022 allowing people or things to move at high speed.\r\n\u2022 (of friends) close and loyal.\r\n\u2022 (of a person or lifestyle) engaging in or involving exciting or shocking activities.\r\n\u2022 so as to be hard to wake.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Fastidious",
         "Definition": "fussy. very attentive to and concerned about accuracy and detail. very concerned about matters of cleanliness.",
         "Right": 0,
@@ -4844,6 +5402,12 @@
     {
         "Word": "Feasible",
         "Definition": "possible to do easily or conveniently.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Feat",
+        "Definition": "an achievement that requires great courage, skill, or strength.",
         "Right": 0,
         "Wrong": 0
     },
@@ -4903,7 +5467,7 @@
     },
     {
         "Word": "Fervor",
-        "Definition": "intense and passionate feeling.",
+        "Definition": "\u2022 intense and passionate feeling.\r\n\u2022 intense heat.",
         "Right": 0,
         "Wrong": 0
     },
@@ -4962,6 +5526,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Firmament",
+        "Definition": "\u2022 the heavens or the sky, especially when regarded as a tangible thing.\r\n\u2022 a sphere or world viewed as a collection of people.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Flag",
         "Definition": "Tire",
         "Right": 0,
@@ -5004,6 +5574,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Flimsy",
+        "Definition": "\u2022 comparatively light and insubstantial; easily damaged.\r\n\u2022 a document, especially a copy, made on very thin paper.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Flinders",
         "Definition": "small fragments or splinters.",
         "Right": 0,
@@ -5023,7 +5599,7 @@
     },
     {
         "Word": "Flounce",
-        "Definition": "go or move in an exaggeratedly impatient or angry manner.\r\n move with exaggerated motions.\r\n an exaggerated action, typically intended to express one's annoyance or impatience.",
+        "Definition": "\u2022 go or move in an exaggeratedly impatient or angry manner.\r\n\u2022 move with exaggerated motions.\r\n\u2022 an exaggerated action, typically intended to express one's annoyance or impatience.",
         "Right": 0,
         "Wrong": 0
     },
@@ -5100,6 +5676,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Forebode",
+        "Definition": "\u2022 (of a situation or occurrence) act as a warning of (something bad).\r\n\u2022 have a presentiment of (something bad).",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Forerunner",
         "Definition": "\u2022 a person or thing that\u00a0precedes\u00a0the coming or development of someone or something else.\r\n\u2022 a sign or warning of something to come.",
         "Right": 0,
@@ -5125,7 +5707,7 @@
     },
     {
         "Word": "Forthright",
-        "Definition": "(of a person or their manner or speech) direct and outspoken; straightforward and honest.\r\nhonest in speaking. (of a person or their manner or speech) direct and outspoken; straightforward and honest.",
+        "Definition": "\u2022 (of a person or their manner or speech) direct and outspoken; straightforward and honest.\r\n\u2022 honest in speaking. (of a person or their manner or speech) direct and outspoken; straightforward and honest.",
         "Right": 0,
         "Wrong": 0
     },
@@ -5137,7 +5719,7 @@
     },
     {
         "Word": "Fortuitous",
-        "Definition": "happening by accident or chance rather than design.\r\nhappening by a lucky chance; fortunate.",
+        "Definition": "\u2022 happening by accident or chance rather than design.\r\n\u2022 happening by a lucky chance; fortunate.",
         "Right": 0,
         "Wrong": 0
     },
@@ -5220,8 +5802,20 @@
         "Wrong": 0
     },
     {
+        "Word": "Frumpy",
+        "Definition": "drab, old-fashioned, and unattractive.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Frustrate",
         "Definition": "Prevent. prevent (a plan or attempted action) from progressing, succeeding, or being fulfilled.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Fugue",
+        "Definition": "\u2022 a contrapuntal composition in which a short melody or phrase (the subject) is introduced by one part and successively taken up by others and developed by interweaving the parts.\r\n\u2022 a state or period of loss of awareness of one's identity, often coupled with flight from one's usual environment, associated with certain forms of hysteria and epilepsy.",
         "Right": 0,
         "Wrong": 0
     },
@@ -5270,6 +5864,18 @@
     {
         "Word": "Gall",
         "Definition": "Rudeness. Bold and impudent behavior.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Gallivant",
+        "Definition": "\u2022 go around from one place to another in the pursuit of pleasure or entertainment.\r\n\u2022 to go about usually ostentatiously or indiscreetly with members of the opposite sex",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Galore",
+        "Definition": "in abundance",
         "Right": 0,
         "Wrong": 0
     },
@@ -5364,10 +5970,22 @@
         "Wrong": 0
     },
     {
+        "Word": "Glom",
+        "Definition": "\u2022 steal\r\n\u2022 become stuck or attached to.\r\n\u2022 to grab hold of : appropriate to oneself",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Glut",
         "Definition": "an excessively abundant supply of something.",
         "Right": 0,
         "Wrong": 1
+    },
+    {
+        "Word": "Gnash",
+        "Definition": "\u2022 grind (one's teeth) together, typically as a sign of anger.\r\n\u2022 (of teeth) strike together; grind.",
+        "Right": 0,
+        "Wrong": 0
     },
     {
         "Word": "Goad",
@@ -5402,6 +6020,24 @@
     {
         "Word": "Gregarious",
         "Definition": "\u2022 Likely to socialize with\r\n\u2022 (of a person) fond of company; sociable.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Grim",
+        "Definition": "\u2022 forbidding or uninviting.\r\n\u2022 (of humor) lacking genuine levity; mirthless; black.\r\n\u2022 depressing or worrying to consider.\r\n\u2022 unrelentingly harsh; merciless or severe.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Grimly ",
+        "Definition": "\u2022 in a very serious, gloomy, or depressing manner.\r\n\u2022 in an unrelenting manner despite hardship.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Gripe",
+        "Definition": "\u2022 complain about something in a persistent, irritating way.\r\n\u2022 grasp tightly; clutch.\r\n\u2022 a minor complaint.\r\n\u2022 gastric or intestinal pain; colic.\r\n\u2022 lashings securing a boat in its place on deck or in davits.",
         "Right": 0,
         "Wrong": 0
     },
@@ -5467,7 +6103,7 @@
     },
     {
         "Word": "Hagiographic",
-        "Definition": "idealizing a subject. the writing of the lives of saints.\r\nbiography that idealizes its subject.",
+        "Definition": "\u2022 idealizing a subject. the writing of the lives of saints.\r\n\u2022 biography that idealizes its subject.",
         "Right": 0,
         "Wrong": 0
     },
@@ -5508,6 +6144,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Haptic",
+        "Definition": "relating to the sense of touch, in particular relating to the perception and manipulation of objects using the senses of touch and proprioception.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Harangue",
         "Definition": "Aggressive speech. a lengthy and aggressive speech. Long pompous speech; a tirade",
         "Right": 0,
@@ -5528,6 +6170,12 @@
     {
         "Word": "Haughty",
         "Definition": "blatantly and disdainfully proud : having or showing an attitude of superiority and contempt for people or things perceived to be inferior",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Haunch",
+        "Definition": "\u2022 a buttock and thigh considered together, in a human or animal.\r\n\u2022 the side of an arch, between the crown and the pier.",
         "Right": 0,
         "Wrong": 0
     },
@@ -5593,7 +6241,7 @@
     },
     {
         "Word": "Heuristic",
-        "Definition": "pinnacle. the period of a person's or thing's greatest success, popularity, or vigor.",
+        "Definition": "\u2022 enabling someone to discover or learn something for themselves.\r\n\u2022 proceeding to a solution by trial and error or by rules that are only loosely defined.\r\n\u2022 An experience-based technique that aids in learning, discovery, and problem-solving by using past experiences and practical insights to make judgments or decisions.\r\n\u2022 A rule of thumb or educated guess\r\n\u2022 A practical method or shortcut that is not guaranteed to be perfect or optimal but is sufficient for reaching an immediate, short-term goal or approximation.",
         "Right": 0,
         "Wrong": 0
     },
@@ -5636,6 +6284,12 @@
     {
         "Word": "Hodgepodge",
         "Definition": "mixture.  a confused mixture.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Holdover",
+        "Definition": "a person or thing surviving from an earlier time, especially someone surviving in office or remaining on a sports team.",
         "Right": 0,
         "Wrong": 0
     },
@@ -5688,8 +6342,20 @@
         "Wrong": 0
     },
     {
+        "Word": "Humility",
+        "Definition": "a modest or low view of one's own importance; humbleness.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Humor",
         "Definition": "\u2022 the quality of being\u00a0amusing\u00a0or comic, especially as expressed in literature or speech.\r\n\u2022 a mood or state of mind.\r\n\u2022 an\u00a0inclination\u00a0or\u00a0whim.\r\n\u2022 comply with the wishes of (someone) in order to keep them content, however unreasonable such wishes might be.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Hunker",
+        "Definition": "\u2022 squat or crouch down low.\r\n\u2022 take shelter in a defensive position.\r\n\u2022 apply oneself seriously to a task.",
         "Right": 0,
         "Wrong": 0
     },
@@ -5714,6 +6380,12 @@
     {
         "Word": "Idiosyncrasy",
         "Definition": "peculiarities",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Idyllic",
+        "Definition": "(especially of a time or place) like an idyll; extremely happy, peaceful, or picturesque.",
         "Right": 0,
         "Wrong": 0
     },
@@ -5784,6 +6456,18 @@
         "Wrong": 0
     },
     {
+        "Word": "Immense",
+        "Definition": "extremely large or great, especially in scale or degree.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Immerse",
+        "Definition": "\u2022 dip or submerge in a liquid.\r\n\u2022 involve oneself deeply in a particular activity or interest.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Imminent",
         "Definition": "about to happen.",
         "Right": 0,
@@ -5838,6 +6522,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Imperative",
+        "Definition": "\u2022 of vital importance; crucial.\r\n\u2022 giving an authoritative command; peremptory.\r\n\u2022 an essential or urgent thing.\r\n\u2022 a factor or influence making something necessary.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Imperial",
         "Definition": "relating to an empire.",
         "Right": 0,
@@ -5874,6 +6564,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Impetus",
+        "Definition": "\u2022 the force or energy with which a body moves.\r\n\u2022 the force that makes something happen or happen more quickly.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Implacable",
         "Definition": "\u2022 Unable to be placated.\r\n\u2022 Relentless; unstoppable.\r\n\u2022 Unable to be calmed",
         "Right": 0,
@@ -5893,7 +6589,7 @@
     },
     {
         "Word": "Implicit",
-        "Definition": "implied though not plainly expressed. \r\nessentially or very closely connected with; always to be found in.",
+        "Definition": "\u2022 implied though not plainly expressed. \r\n\u2022 essentially or very closely connected with; always to be found in.",
         "Right": 0,
         "Wrong": 0
     },
@@ -5918,6 +6614,12 @@
     {
         "Word": "Importuned",
         "Definition": "Ask persistently. harass (someone) persistently for or to do something.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Impose",
+        "Definition": "\u2022 force (something unwelcome or unfamiliar) to be accepted or put in place.\r\n\u2022 forcibly put (a restriction) in place.\r\n\u2022require (a duty, charge, or penalty) to be undertaken or paid.\r\n\u2022 exert firm control over.\r\n\u2022 take advantage of someone by demanding their attention or commitment.\r\n\u2022 arrange (pages of type) so that they will be in the correct order after printing and folding.",
         "Right": 0,
         "Wrong": 0
     },
@@ -6014,6 +6716,12 @@
     {
         "Word": "Incantation",
         "Definition": "a series of words said as a magic spell or charm",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Incarnation",
+        "Definition": "\u2022 a person who embodies in the flesh a deity, spirit, or abstract quality.\r\n\u2022 (with reference to reincarnation) one of a series of lifetimes that a person spends on earth.",
         "Right": 0,
         "Wrong": 0
     },
@@ -6156,8 +6864,20 @@
         "Wrong": 0
     },
     {
+        "Word": "Indomitable",
+        "Definition": "impossible to subdue or defeat.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Indubitably",
         "Definition": "\u2022 impossible to doubt.\r\n\u2022 Similar to doubtless and undoubtedly, but it represents a much stronger degree of certainty.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Indulge",
+        "Definition": "\u2022 allow\u00a0oneself\u00a0to enjoy the pleasure of.\r\n\u2022 become involved in (an activity, typically one that is undesirable or disapproved of).\r\n\u2022 allow oneself to enjoy a particular pleasure, especially that of alcohol.\r\n\u2022 satisfy or yield freely to (a desire or interest).\r\n\u2022 allow (someone) to enjoy a desired pleasure.",
         "Right": 0,
         "Wrong": 0
     },
@@ -6188,6 +6908,12 @@
     {
         "Word": "Ineluctable",
         "Definition": "unable to be resisted or avoided; inescapable.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Inept",
+        "Definition": "having or showing no skill; clumsy.",
         "Right": 0,
         "Wrong": 0
     },
@@ -6348,6 +7074,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Insolence",
+        "Definition": "rude and disrespectful behavior.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Insolent",
         "Definition": "rude. showing a rude and arrogant lack of respect.",
         "Right": 0,
@@ -6392,6 +7124,12 @@
     {
         "Word": "Insuperable",
         "Definition": "(of a difficulty or obstacle) impossible to overcome.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Insurmountable",
+        "Definition": "too great to be overcome.",
         "Right": 0,
         "Wrong": 0
     },
@@ -6444,6 +7182,18 @@
         "Wrong": 0
     },
     {
+        "Word": "Interstice",
+        "Definition": "an intervening space, especially a very small one",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Interstitial",
+        "Definition": "\u2022 of, forming, or occupying interstices (an intervening space, especially a very small one.)\r\n\u2022 (of minute animals) living in the spaces between individual sand grains in the soil or aquatic sediments.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Intertwined",
         "Definition": "connect or link (two or more things) closely.",
         "Right": 0,
@@ -6458,6 +7208,12 @@
     {
         "Word": "Intimation",
         "Definition": "Indirect suggestions, an indication or hint.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Intractable",
+        "Definition": "\u2022 not easily controlled or directed; not docile or manageable; stubborn; obstinate\r\n\u2022 not easily relieved or cured\r\n\u2022 not easily manipulated or shaped",
         "Right": 0,
         "Wrong": 0
     },
@@ -6570,6 +7326,12 @@
         "Wrong": 7
     },
     {
+        "Word": "Irate",
+        "Definition": "incensed with anger; furious. marked by extreme anger",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Ire",
         "Definition": "Anger",
         "Right": 0,
@@ -6585,6 +7347,12 @@
         "Word": "Ironclad",
         "Definition": "covered or protected with iron. very rigid or exacting; inflexible; unbreakable:",
         "Right": 1,
+        "Wrong": 0
+    },
+    {
+        "Word": "Irreconcilable",
+        "Definition": "(of ideas, facts, or statements) representing findings or points of view that are so different from each other that they cannot be made compatible.",
+        "Right": 0,
         "Wrong": 0
     },
     {
@@ -6625,7 +7393,7 @@
     },
     {
         "Word": "Jactitation",
-        "Definition": "the restless tossing of the body in illness.\r\n (of marriage) false declaration that one is married to a specified person.",
+        "Definition": "\u2022 the restless tossing of the body in illness.\r\n\u2022 (of marriage) false declaration that one is married to a specified person.",
         "Right": 0,
         "Wrong": 0
     },
@@ -6726,14 +7494,32 @@
         "Wrong": 0
     },
     {
+        "Word": "Kindred",
+        "Definition": "\u2022 a group of related individuals\r\n\u2022 a person's relatives\r\n\u2022 alike in nature or character",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Kludge",
         "Definition": "an ill-assorted collection of parts assembled to fulfill a particular purpose.",
         "Right": 0,
         "Wrong": 0
     },
     {
+        "Word": "Knell",
+        "Definition": "the sound of a bell, especially when rung solemnly for a death or funeral.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Kowtow",
         "Definition": "Bow to. act in an excessively subservient manner.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Labile",
+        "Definition": "\u2022 liable to change; easily altered.\r\n\u2022 of or characterized by emotions that are easily aroused or freely expressed, and that tend to alter quickly and spontaneously; emotionally unstable.\r\n\u2022 easily broken down or displaced.",
         "Right": 0,
         "Wrong": 0
     },
@@ -6810,6 +7596,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Lapse",
+        "Definition": "\u2022 a temporary failure of concentration, memory, or judgment.\r\n\u2022 an interval or passage of time.\r\n\u2022 (of a right, privilege, or agreement) become invalid because it is not used, claimed, or renewed; expire.\r\n\u2022 pass gradually into (an inferior state or condition).",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Larceny",
         "Definition": "theft of personal property.",
         "Right": 0,
@@ -6824,6 +7616,12 @@
     {
         "Word": "Lark",
         "Definition": "something done for fun, especially something mischievous or daring; an amusing adventure or escapade.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Lascivious",
+        "Definition": "(of a person, manner, or gesture) feeling or revealing an overt and often offensive sexual desire.",
         "Right": 0,
         "Wrong": 0
     },
@@ -6864,6 +7662,30 @@
         "Wrong": 0
     },
     {
+        "Word": "Lecher",
+        "Definition": "a man who engages in lechery (sexual activity)",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Lecherous",
+        "Definition": "given to or suggestive of lechery (Sexual activity)",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Lechery",
+        "Definition": "indulgence in sexual activity",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Leer",
+        "Definition": "\u2022 look or\u00a0gaze\u00a0in an\u00a0unpleasant,\u00a0malicious, or\u00a0lascivious\u00a0way.\r\n\u2022 an unpleasant, malicious, or lascivious look.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Leery",
         "Definition": "\u2022 Bad tempered. \r\n\u2022 Distrustful. cautious or wary due to realistic suspicions.",
         "Right": 0,
@@ -6872,6 +7694,18 @@
     {
         "Word": "Legerdemain",
         "Definition": "\u2022 skillful\u00a0use of one's hands when performing conjuring tricks.\r\n\u2022 deception; trickery.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Lemma",
+        "Definition": "\u2022 a subsidiary or intermediate theorem in an argument or proof.\r\n\u2022 a heading indicating the subject or argument of a literary composition, an annotation, or a dictionary entry.\r\n\u2022 the lower bract of the floret of a grass.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Lenticular",
+        "Definition": "\u2022 shaped like a lentil, especially by being biconvex.\r\n\u2022 relating to the lens of the eye.",
         "Right": 0,
         "Wrong": 0
     },
@@ -6912,6 +7746,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Liminal",
+        "Definition": "\u2022 occupying a position at, or on both sides of, a boundary or threshold.\r\n\u2022 relating to a transitional or initial stage of a process.\r\n\u2022 of, relating to, or situated at a sensory threshold : barely perceptible or capable of eliciting a response",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Limpid",
         "Definition": "(clear of a liquid) free of anything that darkens; completely clear. (especially of writing or music) clear and accessible or melodious.",
         "Right": 0,
@@ -6936,6 +7776,18 @@
         "Wrong": 0
     },
     {
+        "Word": "Literatim ",
+        "Definition": "(of the copying of a text) letter by letter.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Livid",
+        "Definition": "\u2022 extremely angry\r\n\u2022 dark bluish gray in color.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Loath",
         "Definition": "reluctant; unwilling. (not to be confused with loathe)",
         "Right": 0,
@@ -6954,6 +7806,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Loom",
+        "Definition": "\u2022 an apparatus for making fabric by weaving yarn or thread.\r\n\u2022 appear as a vague or shadowy form, especially one that is large or threatening.\r\n\u2022 (of an event regarded as ominous or threatening) seem about to happen.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Loquacious",
         "Definition": "tending to talk a great deal; talkative.",
         "Right": 0,
@@ -6968,6 +7826,12 @@
     {
         "Word": "Lucrative",
         "Definition": "producing a great deal of profit.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Ludic",
+        "Definition": "showing spontaneous and undirected playfulness.",
         "Right": 0,
         "Wrong": 0
     },
@@ -6992,6 +7856,12 @@
     {
         "Word": "Luminous",
         "Definition": "full of or shedding light; bright or shining, especially in the dark.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Lurch",
+        "Definition": "\u2022 make an abrupt, unsteady, uncontrolled movement or series of movements; stagger.\r\n\u2022 an abrupt uncontrolled movement, especially an unsteady tilt or roll.\r\n\u2022 leave someone abruptly and without assistance or support when they are in a difficult situation.",
         "Right": 0,
         "Wrong": 0
     },
@@ -7074,6 +7944,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Malefic",
+        "Definition": "\u2022 causing or capable of causing harm or destruction, especially by supernatural means.\r\n\u2022 relating to the planets Saturn and Mars, traditionally considered to have an unfavorable influence.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Maleficent",
         "Definition": "causing harm or destruction, especially by supernatural means.",
         "Right": 0,
@@ -7088,6 +7964,12 @@
     {
         "Word": "Malfeasance",
         "Definition": "misconduct",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Malice",
+        "Definition": "\u2022 the intention or desire to do evil; ill will.\r\n\u2022 wrongful intention, especially as increasing the guilt of certain offenses.",
         "Right": 0,
         "Wrong": 0
     },
@@ -7110,6 +7992,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Malingering",
+        "Definition": "exaggerate or feign illness in order to escape duty or work.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Malleable",
         "Definition": "Moldable",
         "Right": 0,
@@ -7118,6 +8006,18 @@
     {
         "Word": "Malodorous",
         "Definition": "Stinky",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Mania",
+        "Definition": "\u2022 mental illness marked by periods of great excitement or euphoria, delusions, and overactivity.\r\n\u2022 an excessive enthusiasm or desire; an obsession.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Maniacal",
+        "Definition": "\u2022 exhibiting extremely wild or violent behavior.\r\n\u2022 suffering from mania.\r\n\u2022 exhibiting or denoting obsessive enthusiasm.",
         "Right": 0,
         "Wrong": 0
     },
@@ -7142,6 +8042,12 @@
     {
         "Word": "Martinet",
         "Definition": "disciplinarian",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Masticate",
+        "Definition": "chew (food).",
         "Right": 0,
         "Wrong": 0
     },
@@ -7212,6 +8118,18 @@
         "Wrong": 0
     },
     {
+        "Word": "Medium",
+        "Definition": "\u2022 an agency or means of doing something.\r\n\u2022 the intervening substance through which impressions are conveyed to the senses or a force acts on objects at a distance.\r\n\u2022 about halfway between two extremes of size or another quality; average\r\n\u2022 the substance in which an organism lives or is cultured.\r\n\u2022 a particular form of storage for digitized information, such as magnetic tape or discs.\r\n\u2022 the material or form used by an artist, composer, or writer.\r\n\u2022 a person claiming to be in contact with the spirits of the dead and to communicate between the dead and the living.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Meek",
+        "Definition": "quiet, gentle, and easily imposed on; submissive.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Melancholy",
         "Definition": "Sadness",
         "Right": 0,
@@ -7226,6 +8144,12 @@
     {
         "Word": "Mellifluous",
         "Definition": "Sweet sounding",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Menace",
+        "Definition": "\u2022 a person or thing that is likely to cause harm; a threat or danger. \r\n\u2022 a person or thing that causes trouble or annoyance.\r\n\u2022 (verb) threaten, especially in a malignant or hostile manner.",
         "Right": 0,
         "Wrong": 0
     },
@@ -7296,6 +8220,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Metastasize",
+        "Definition": "(of a cancer) spread to other sites in the body by metastasis.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Meteoric",
         "Definition": "Very rapid. used to describe something that develops very fast and attracts a lot of attention",
         "Right": 0,
@@ -7332,8 +8262,26 @@
         "Wrong": 0
     },
     {
+        "Word": "Milquetoast",
+        "Definition": "\u2022 a timid or feeble person\r\n\u2022 feeble, insipid, or bland.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Mimic",
         "Definition": "imitate (someone or their actions or words), especially in order to entertain or ridicule. ",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Minuscule",
+        "Definition": "\u2022 extremely small; tiny.\r\n\u2022 of or in lowercase letters, as distinct from capitals or uncials.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Minute",
+        "Definition": "\u2022 /m\u012b\u02c8no\u035eot/ extremely small.\r\n\u2022 so small as to verge on insignificance.\r\n\u2022 (of an inquiry or investigation, or an account of one) taking the smallest points into consideration; precise and meticulous.",
         "Right": 0,
         "Wrong": 0
     },
@@ -7405,7 +8353,7 @@
     },
     {
         "Word": "Misogynist",
-        "Definition": "Hater of women. \r\na person who dislikes, despises, or is strongly prejudiced against women.",
+        "Definition": "\u2022 Hater of women. \r\n\u2022 a person who dislikes, despises, or is strongly prejudiced against women.",
         "Right": 0,
         "Wrong": 0
     },
@@ -7482,8 +8430,20 @@
         "Wrong": 0
     },
     {
+        "Word": "Motley",
+        "Definition": "\u2022 incongruously varied in appearance or character; disparate.\r\n\u2022 an incongruous mixture.\r\n\u2022 the particolored costume of a jester.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Mulct",
         "Definition": "Swindle. extract money from (someone) by fine or taxation. deprive someone of (money or possessions) by fraudulent means.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Multifaceted",
+        "Definition": "having many aspects, features, or sides",
         "Right": 0,
         "Wrong": 0
     },
@@ -7531,7 +8491,7 @@
     },
     {
         "Word": "Muted",
-        "Definition": "(of color or lighting) not bright; subdued.\r\n(of a sound or voice) quiet and soft.",
+        "Definition": "\u2022 (of color or lighting) not bright; subdued.\r\n\u2022 (of a sound or voice) quiet and soft.",
         "Right": 0,
         "Wrong": 0
     },
@@ -7686,6 +8646,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Nuptial",
+        "Definition": "relating to marriage or weddings.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Obdurate",
         "Definition": "Stubbornly refusing to change one's opinion or course of action",
         "Right": 0,
@@ -7711,13 +8677,19 @@
     },
     {
         "Word": "Objective",
-        "Definition": "(of a person or their judgment) not influenced by personal feelings or opinions in considering and representing facts.\r\n not dependent on the mind for existence; actual.",
+        "Definition": "\u2022 (of a person or their judgment) not influenced by personal feelings or opinions in considering and representing facts.\r\n\u2022 not dependent on the mind for existence; actual.",
         "Right": 0,
         "Wrong": 0
     },
     {
         "Word": "Objurgate",
         "Definition": "scold severely",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Obligatory",
+        "Definition": "\u2022 required by a legal, moral, or other rule; compulsory.\r\n\u2022 (of a ruling) having binding force.\r\n\u2022 so customary or routine as to be expected of everyone or on every occasion.",
         "Right": 0,
         "Wrong": 0
     },
@@ -7820,6 +8792,12 @@
     {
         "Word": "Officious",
         "Definition": "Meddlesome. intrusively\u00a0enthusiastic\u00a0in offering help or advice; interfering.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Omission ",
+        "Definition": "\u2022 a person or thing that has been left out or excluded.\r\n\u2022 the action of excluding or leaving out someone or something.\r\n\u2022 a failure to do something, especially something that one has a moral or legal obligation to do.",
         "Right": 0,
         "Wrong": 0
     },
@@ -8082,6 +9060,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Passivity",
+        "Definition": "\u2022 acceptance of what happens, without active response or resistance.\r\n\u2022 the state of inactivity of a metal made unreactive by a thin inert surface layer of oxide.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Pastiche",
         "Definition": "an artistic work in a style that imitates that of another work, artist, or period.",
         "Right": 0,
@@ -8106,8 +9090,26 @@
         "Wrong": 0
     },
     {
+        "Word": "Pathos",
+        "Definition": "a quality that evokes pity or sadness.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Patina",
         "Definition": "a green or brown film on the surface of bronze or similar metals, produced by oxidation over a long period.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Patron",
+        "Definition": "\u2022 a person who gives financial or other support to a person, organization, cause, or activity.\r\n\u2022 a customer, especially a regular one, of a store, restaurant, or theater.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Patronage",
+        "Definition": "\u2022 the support given by a patron.\r\n\u2022 the power to control appointments to office or the right to privileges.\r\n\u2022 a patronizing or condescending manner.\r\n\u2022 the regular business given to a store, restaurant, or public service by a person or group",
         "Right": 0,
         "Wrong": 0
     },
@@ -8119,13 +9121,19 @@
     },
     {
         "Word": "Paucity",
-        "Definition": "Lack of\r\nThe presence of something only in small or insufficient quantities or amounts; scarcity.",
+        "Definition": "\u2022 Lack of\r\n\u2022The presence of something only in small or insufficient quantities or amounts; scarcity.",
         "Right": 0,
         "Wrong": 0
     },
     {
         "Word": "Peccant",
         "Definition": "having committed a fault or sin; offending.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Peckish",
+        "Definition": "feeling slightly hungry; having an appetite.",
         "Right": 0,
         "Wrong": 0
     },
@@ -8154,6 +9162,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Pedigree",
+        "Definition": "\u2022 the record of descent of an animal, showing it to be purebred.\r\n\u2022 the recorded ancestry, especially upper-class ancestry, of a person or family.\r\n\u2022 the background or history of a person or thing, especially as conferring distinction or quality.\r\n\u2022 a genealogical table.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Peevish",
         "Definition": "Irritable",
         "Right": 0,
@@ -8178,6 +9192,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Penitentiary",
+        "Definition": "\u2022 a prison for people convicted of serious crimes.\r\n\u2022 (in the Roman Catholic Church) a priest charged with certain aspects of the administration of the sacrament of penance.\r\n\u2022 an office in the papal court forming a tribunal for deciding on questions relating to penance, dispensations, and absolution.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Penurious",
         "Definition": "poor. extremely poor; poverty-stricken.",
         "Right": 0,
@@ -8186,6 +9206,12 @@
     {
         "Word": "Penury",
         "Definition": "\u2022 Extreme poverty. Destitution \r\n\u2022 Destitution-> poverty so extreme that one lacks the means to provide for oneself.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Perceptible",
+        "Definition": "(especially of a slight movement or change of state) able to be seen or noticed.",
         "Right": 0,
         "Wrong": 0
     },
@@ -8316,6 +9342,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Persecute",
+        "Definition": "\u2022 to harass or punish in a manner designed to injure, grieve, or afflict\r\nspecifically : to cause to suffer because of belief\r\n\u2022 to annoy with persistent or urgent approaches (such as attacks, pleas, or importunities",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Perseverance",
         "Definition": "persistence in doing something despite difficulty or delay in achieving success.",
         "Right": 0,
@@ -8388,6 +9420,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Philander",
+        "Definition": "(of a man) readily or frequently enter into casual sexual relationships with women.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Philanthropy",
         "Definition": "the desire to promote the welfare of others, expressed especially by the generous donation of money to good causes.",
         "Right": 0,
@@ -8431,7 +9469,7 @@
     },
     {
         "Word": "Pine",
-        "Definition": "Yearn for",
+        "Definition": "\u2022 Yearn for\r\n\u2022 suffer a mental and physical decline, especially because of a broken heart.\r\n\u2022 miss and long for the return of.",
         "Right": 0,
         "Wrong": 0
     },
@@ -8473,7 +9511,7 @@
     },
     {
         "Word": "Placid",
-        "Definition": "peaceful",
+        "Definition": "\u2022 (of a person or animal) not easily upset or excited.\r\n\u2022 (especially of a place or stretch of water) calm and peaceful, with little movement or activity.\r\n\u2022 peaceful",
         "Right": 0,
         "Wrong": 0
     },
@@ -8497,7 +9535,7 @@
     },
     {
         "Word": "Platitude",
-        "Definition": "Obvious remark. a remark or statement, especially one with a moral content, that has been used too often to be interesting or thoughtful.",
+        "Definition": "Obvious remark. a remark or statement, especially one with a moral content, that has been used too often to be interesting or thoughtful. (flat or empty saying)",
         "Right": 0,
         "Wrong": 0
     },
@@ -8522,6 +9560,12 @@
     {
         "Word": "Ploy",
         "Definition": "clever scene. a cunning plan or action designed to turn a situation to one's own advantage.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Pluck",
+        "Definition": "\u2022 take hold of (something) and quickly remove it from its place.\r\n\u2022 quickly or suddenly remove someone from a dangerous or unpleasant situation.\r\n\u2022 spirited and determined courage.\r\n\u2022 the heart, liver, and lungs of an animal as food.",
         "Right": 0,
         "Wrong": 0
     },
@@ -8598,6 +9642,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Portmanteau",
+        "Definition": "\u2022 a large trunk or suitcase, typically made of stiff leather and opening into two equal parts.\r\n\u2022 a word blending the sounds and combining the meanings of two others, for example motel (from \u2018motor\u2019 and \u2018hotel\u2019) or brunch (from \u2018breakfast\u2019 and \u2018lunch\u2019).",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Posit",
         "Definition": "Assume as fact. assume as a fact; put forward as a basis of argument.",
         "Right": 0,
@@ -8624,6 +9674,12 @@
     {
         "Word": "Precarious",
         "Definition": "not securely held or in position; dangerously likely to fall or collapse.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Precedence",
+        "Definition": "\u2022 priority of importance\r\n\u2022 the right to superior honor on a ceremonial or formal occasion\r\n\u2022 the order of ceremonial or formal preference\r\n\u2022 the fact of coming or occurring earlier in time",
         "Right": 0,
         "Wrong": 0
     },
@@ -8736,6 +9792,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Preordained",
+        "Definition": "(of an outcome or course of action) decided or determined beforehand; predestined.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Preponderance",
         "Definition": "the quality or fact of being greater in number, quantity, or importance.",
         "Right": 0,
@@ -8808,6 +9870,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Prevalent",
+        "Definition": "\u2022 generally or widely accepted, practiced, or favored : widespread.\r\n\u2022 being in ascendancy",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Prevaricate",
         "Definition": "speak evasively. speak or act in an evasive way.",
         "Right": 0,
@@ -8832,6 +9900,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Primordial",
+        "Definition": "\u2022 existing at or from the beginning of time; primeval.\r\n\u2022 (especially of a state or quality) basic and fundamental.\r\n\u2022 (of a cell, part, or tissue) in the earliest stage of development.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Pristine",
         "Definition": "Spotless. in its original condition; unspoiled. clean and fresh as if new; spotless.",
         "Right": 0,
@@ -8846,6 +9920,12 @@
     {
         "Word": "Probity",
         "Definition": "the quality of having strong moral principles; honesty and decency.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Proceeds",
+        "Definition": "\u2022 money obtained from an event or activity.",
         "Right": 0,
         "Wrong": 0
     },
@@ -8928,6 +10008,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Proletariat",
+        "Definition": "\u2022 workers or working-class people, regarded collectively (often used with reference to Marxism).\r\n\u2022 the lowest class of citizens in ancient Rome.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Proliferate",
         "Definition": "increase rapidly in numbers; multiply.",
         "Right": 0,
@@ -8947,7 +10033,7 @@
     },
     {
         "Word": "Prolixity",
-        "Definition": "Verbosity. : unduly prolonged or drawn out : too long\r\n2: marked by or using an excess of words",
+        "Definition": "\u2022 Verbosity: unduly prolonged or drawn out : too long\r\n\u2022 marked by or using an excess of words",
         "Right": 0,
         "Wrong": 0
     },
@@ -9030,6 +10116,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Proprioception",
+        "Definition": "perception or awareness of the position and movement of the body.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Prosaic",
         "Definition": "\u2022 Lacking in imagination or originality\r\n\u2022 having the style or diction of prose; lacking poetic beauty.\r\n\u2022 commonplace; unromantic.",
         "Right": 0,
@@ -9038,6 +10130,12 @@
     {
         "Word": "Proscribe",
         "Definition": "Ban. forbid, especially by law.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Prosecute",
+        "Definition": "\u2022 to initiate criminal proceedings against a person\r\n\u2022 to follow to the end : pursue until finished\r\n\u2022 to engage in ",
         "Right": 0,
         "Wrong": 0
     },
@@ -9108,6 +10206,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Proxy",
+        "Definition": "\u2022 the authority to represent someone else, especially in voting\r\n\u2022 a figure that can be used to represent the value of something in a calculation.\r\n\u2022 a person authorized to act on behalf of another\r\n\u2022 a document authorizing a person to vote on another's behalf",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Prudence",
         "Definition": "the quality of being prudent; cautiousness. acting with or showing care and thought for the future.",
         "Right": 0,
@@ -9128,6 +10232,12 @@
     {
         "Word": "Puerile",
         "Definition": "Childish",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Pugilist",
+        "Definition": "a boxer, especially a professional one.",
         "Right": 0,
         "Wrong": 0
     },
@@ -9168,6 +10278,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Punt",
+        "Definition": "\u2022 a long, narrow flat-bottomed boat, square at both ends and propelled with a long pole, used on inland waters chiefly for recreation.\r\n\u2022 travel in a punt.\r\n\u2022 delay in answering or taking action; equivocate.\r\n\u2022 bet or speculate on something; gamble.\r\n\u2022 an attempt to do something",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Puritanical",
         "Definition": "practicing or affecting strict religious or moral behavior.",
         "Right": 0,
@@ -9175,13 +10291,31 @@
     },
     {
         "Word": "Purport",
-        "Definition": "appear or claim to be or do something, especially falsely; profess.\r\n the meaning or substance of something, typically a document or speech\r\n the purpose of a person or thing.",
+        "Definition": "\u2022 appear or claim to be or do something, especially falsely; profess.\r\n\u2022 the meaning or substance of something, typically a document or speech\r\n\u2022 the purpose of a person or thing.",
         "Right": 0,
         "Wrong": 0
     },
     {
         "Word": "Purview",
         "Definition": "\u2022 The scope of the influence or concerns of something.\r\n\u2022 Range of experience or thought.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Pussyfoot",
+        "Definition": "\u2022 act in a cautious or noncommittal way.\r\n\u2022 move stealthily or warily.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Putrefy",
+        "Definition": "(of a body or other organic matter) decay or rot and produce a fetid smell.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Putrid",
+        "Definition": "\u2022 (of organic matter) decaying or rotting and emitting a fetid smell.\r\n\u2022 of or characteristic of rotting matter.\r\n\u2022 very unpleasant; repulsive.",
         "Right": 0,
         "Wrong": 0
     },
@@ -9218,6 +10352,12 @@
     {
         "Word": "Quandary",
         "Definition": "uncertainty. a state of perplexity or uncertainty over what to do in a difficult situation.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Quash",
+        "Definition": "\u2022 reject or void, especially by legal procedure.\r\n\u2022 put an end to; suppress.",
         "Right": 0,
         "Wrong": 0
     },
@@ -9342,6 +10482,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Rank",
+        "Definition": "\u2022 a position in the hierarchy of the armed forces.\r\n\u2022 a single line of soldiers or police officers drawn up abreast.\r\n\u2022 give (someone or something) a rank or place within a grading system.\r\n\u2022 the people belonging to or constituting a group or class.\r\n\u2022 (of vegetation) growing too thickly and coarsely.\r\n\u2022 (especially of air or water) having a foul or offensive smell.\r\n\u2022 very unpleasant.\r\n\u2022 (especially of something bad or deficient) complete and utter (used for emphasis).",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Rankle",
         "Definition": "Get under one's skin. (of a comment, event, or fact) cause annoyance or resentment that persists.",
         "Right": 0,
@@ -9350,6 +10496,12 @@
     {
         "Word": "Rapacious",
         "Definition": "aggressively greedy or grasping.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Rapport",
+        "Definition": "\u2022 a close and harmonious relationship in which the people or groups concerned understand each other's feelings or ideas and communicate well.\r\n\u2022 a friendly, harmonious relationship",
         "Right": 0,
         "Wrong": 0
     },
@@ -9402,8 +10554,20 @@
         "Wrong": 0
     },
     {
+        "Word": "Raucous",
+        "Definition": "making or constituting a disturbingly harsh and loud noise.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Ravenous",
         "Definition": "extremely hungry.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Ravishing",
+        "Definition": "delightful; entrancing.",
         "Right": 0,
         "Wrong": 0
     },
@@ -9450,8 +10614,26 @@
         "Wrong": 0
     },
     {
+        "Word": "Receptacle",
+        "Definition": "\u2022 an object or space used to contain something.\r\n\u2022 an electrical outlet into which the plug of an electrical device may be inserted.\r\n\u2022 an organ or structure which receives a secretion, eggs, sperm, etc.\r\n\u2022 an enlarged area at the apex of a stem that bears the organs of a flower or the florets of a flower\r\n\u2022 a structure supporting the sexual organs in some algae, mosses, and liverworts.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Recess",
+        "Definition": "\u2022 a small space created by building part of a wall further back from the rest.\r\n\u2022 a period of time when the proceedings of a parliament, committee, court of law, or other official body are temporarily suspended.a remote, \u2022 secluded, or secret place.\r\n\u2022 a break between school classes.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Reciprocity",
         "Definition": "the practice of exchanging things with others for mutual benefit, especially privileges granted by one country or organization to another.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Reckoning",
+        "Definition": "\u2022 the action or process of calculating or estimating something.\r\n\u2022 a person's view, opinion, or judgment.\r\n\u2022 the avenging or punishing of past mistakes or misdeeds.\r\n\u2022 a bill or account, or its settlement.",
         "Right": 0,
         "Wrong": 0
     },
@@ -9480,6 +10662,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Reconnaissance",
+        "Definition": "\u2022 a preliminary survey to gain information. especially\r\n\u2022 an exploratory military survey of enemy territory",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Recourse",
         "Definition": "a source of help in a difficult situation.",
         "Right": 0,
@@ -9494,6 +10682,12 @@
     {
         "Word": "Recrudesce",
         "Definition": "Relapse. break out again; recur.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Recrudescence",
+        "Definition": "the recurrence of an undesirable condition.",
         "Right": 0,
         "Wrong": 0
     },
@@ -9600,8 +10794,14 @@
         "Wrong": 0
     },
     {
+        "Word": "Rend",
+        "Definition": "\u2022 tear (something) into two or more pieces.\r\n\u2022 wrench (something) violently.\r\n\u2022 cause great emotional pain to (a person or their heart).",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Render",
-        "Definition": "provide or give (a service, help, etc.). \r\ncause to be or become; make.\r\nrepresent or depict artistically.\r\nmelt down (fat).",
+        "Definition": "\u2022 provide or give (a service, help, etc.). \r\n\u2022 cause to be or become; make.\r\n\u2022 represent or depict artistically.\r\n\u2022 melt down (fat).",
         "Right": 0,
         "Wrong": 0
     },
@@ -9631,7 +10831,7 @@
     },
     {
         "Word": "Repertoire",
-        "Definition": "the whole body of items that are regularly performed.\r\na stock of plays, dances, or pieces that a company or a performer knows or is prepared to perform.\r\na stock of skills or types of behavior that a person habitually uses.",
+        "Definition": "\u2022 the whole body of items that are regularly performed.\r\n\u2022 a stock of plays, dances, or pieces that a company or a performer knows or is prepared to perform.\r\n\u2022 a stock of skills or types of behavior that a person habitually uses.",
         "Right": 0,
         "Wrong": 0
     },
@@ -9673,13 +10873,31 @@
     },
     {
         "Word": "Reprove",
-        "Definition": "to scold or correct usually gently or with kindly intent\r\n to express disapproval of",
+        "Definition": "\u2022 to scold or correct usually gently or with kindly intent\r\n\u2022 to express disapproval of",
         "Right": 0,
         "Wrong": 0
     },
     {
         "Word": "Repudiate",
         "Definition": "refuse to accept or be associated with. Deny as untrue. deny the truth or validity of.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Repulsed",
+        "Definition": "\u2022 drive back (an attack or attacking enemy) by force.\r\n\u2022 cause (someone) to feel intense distaste and aversion.\r\n\u2022 fail to welcome (friendly advances or the person making them); rebuff.\r\n\u2022 refuse to accept (an offer).",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Requiem",
+        "Definition": "\u2022 (especially in the Roman Catholic Church) a Mass for the repose of the souls of the dead.\r\n\u2022 a musical composition setting parts of a requiem Mass, or of a similar character.\r\n\u2022 an act or token of remembrance.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Requite",
+        "Definition": "\u2022 make appropriate return for (a favor, service, or wrongdoing).\r\n\u2022 return a favor to (someone).\r\n\u2022 respond to (love or affection); return.",
         "Right": 0,
         "Wrong": 0
     },
@@ -9703,7 +10921,7 @@
     },
     {
         "Word": "Resilient",
-        "Definition": "(of a person or animal) able to withstand or recover quickly from difficult conditions\r\n(of a substance or object) able to recoil or spring back into shape after bending, stretching, or being compressed",
+        "Definition": "\u2022 (of a person or animal) able to withstand or recover quickly from difficult conditions\r\n\u2022 (of a substance or object) able to recoil or spring back into shape after bending, stretching, or being compressed",
         "Right": 0,
         "Wrong": 0
     },
@@ -9716,6 +10934,12 @@
     {
         "Word": "Resolve",
         "Definition": "Determine. firm determination to do something.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Resounding",
+        "Definition": "\u2022 unmistakable; emphatic.\r\n\u2022 (of a sound) loud enough to reverberate.",
         "Right": 0,
         "Wrong": 0
     },
@@ -9817,13 +11041,19 @@
     },
     {
         "Word": "Rigmarole",
-        "Definition": "a lengthy and complicated procedure.\r\n a long, rambling story or statement.",
+        "Definition": "\u2022 a lengthy and complicated procedure.\r\n\u2022 a long, rambling story or statement.",
         "Right": 0,
         "Wrong": 0
     },
     {
         "Word": "Rile",
         "Definition": "make (someone) annoyed or irritated.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Rime",
+        "Definition": "\u2022 frost formed on cold objects by the rapid freezing of water vapor in cloud or fog.\r\n\u2022 cover (an object) with hoarfrost. (a grayish-white crystalline deposit of frozen water vapor formed in clear still weather on vegetation, fences, etc.)",
         "Right": 0,
         "Wrong": 0
     },
@@ -9840,6 +11070,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Rotund",
+        "Definition": "\u2022 marked by roundnes\r\n\u2022 marked by fullness of sound or cadence\r\n\u2022 notably plump",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Roving",
         "Definition": "constantly moving from one area or place to another.",
         "Right": 0,
@@ -9848,6 +11084,12 @@
     {
         "Word": "Row",
         "Definition": "a noisy acrimonious quarrel.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Rubenesque",
+        "Definition": "characteristic or reminiscent of the paintings of Rubens, especially with reference to his voluptuous female nudes.",
         "Right": 0,
         "Wrong": 0
     },
@@ -9882,6 +11124,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Saccharine",
+        "Definition": "\u2022 excessively sweet or sentimental.\r\n\u2022 relating to or containing sugar; sugary.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Sacrosanct",
         "Definition": "(especially of a principle, place, or routine) regarded as too important or valuable to be interfered with.",
         "Right": 0,
@@ -9900,6 +11148,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Salacious",
+        "Definition": "arousing or appealing to sexual desire or imagination",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Salient",
         "Definition": "most noticeable or important.",
         "Right": 0,
@@ -9912,6 +11166,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Salve",
+        "Definition": "\u2022 an ointment used to promote healing of the skin or as protection.\r\n\u2022 soothe (wounded pride or one's conscience).\r\n\u2022 archaic term for salvage.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Sanctimonious",
         "Definition": "\u2022 Holier than thou. \r\n\u2022 Making a show of being morally superior to other people.",
         "Right": 0,
@@ -9919,7 +11179,7 @@
     },
     {
         "Word": "Sanction",
-        "Definition": "a formal decree\r\n The detriment, loss of reward, or coercive intervention annexed to a violation of a law as a means of enforcing the law\r\n explicit or official approval, permission, or ratification",
+        "Definition": "\u2022 a formal decree\r\n\u2022 The detriment, loss of reward, or coercive intervention annexed to a violation of a law as a means of enforcing the law\r\n\u2022 explicit or official approval, permission, or ratification",
         "Right": 0,
         "Wrong": 0
     },
@@ -9937,7 +11197,7 @@
     },
     {
         "Word": "Sardonic",
-        "Definition": "Mocking",
+        "Definition": "grimly mocking or cynical.",
         "Right": 0,
         "Wrong": 0
     },
@@ -9978,6 +11238,12 @@
         "Wrong": 1
     },
     {
+        "Word": "Saunter",
+        "Definition": "\u2022 walk in a slow, relaxed manner, without hurry or effort.\r\n\u2022 a leisurely stroll.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Savant",
         "Definition": "a learned person, especially a distinguished scientist.",
         "Right": 0,
@@ -10004,6 +11270,12 @@
     {
         "Word": "Schadenfreude",
         "Definition": "Joy in others' suffering",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Schism",
+        "Definition": "\u2022 a split or division between strongly opposed sections or parties, caused by differences in opinion or belief.\r\n\u2022 the formal separation of a Church into two Churches or the secession of a group owing to doctrinal and other differences.",
         "Right": 0,
         "Wrong": 0
     },
@@ -10044,6 +11316,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Scrimp",
+        "Definition": "be thrifty or parsimonious; economize.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Scruple",
         "Definition": "a feeling of doubt or hesitation with regard to the morality or propriety of a course of action",
         "Right": 0,
@@ -10062,8 +11340,20 @@
         "Wrong": 0
     },
     {
+        "Word": "Scry",
+        "Definition": "foretell the future using a crystal ball or other reflective object or surface.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Seclusion",
         "Definition": "the state of being private and away from other people.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Secular",
+        "Definition": "\u2022 denoting attitudes, activities, or other things that have no religious or spiritual basis.\r\n\u2022 (of clergy) not subject to or bound by religious rule; not belonging to or living in a monastic or other order.\r\n\u2022 of or denoting slow changes in the motion of the sun or planets.\r\n\u2022 (of a fluctuation or trend) occurring or persisting over an indefinitely long period.\r\n\u2022 occurring once every century or similarly long period (used especially in reference to celebratory games in ancient Rome).",
         "Right": 0,
         "Wrong": 0
     },
@@ -10088,6 +11378,12 @@
     {
         "Word": "Self-Effacing",
         "Definition": "modest",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Semantic",
+        "Definition": "relating to meaning in language or logic.",
         "Right": 0,
         "Wrong": 0
     },
@@ -10171,7 +11467,7 @@
     },
     {
         "Word": "Sheer",
-        "Definition": "\u2022 nothing other than; unmitigated (used for emphasis).\r\n\u2022 (especially of a cliff or wall) perpendicular or nearly so.",
+        "Definition": "\u2022 nothing other than; unmitigated (used for emphasis).\r\n\u2022 (especially of a cliff or wall) perpendicular or nearly so\r\n\u2022 perpendicularly\r\n\u2022 completely; right.\r\n\u2022 a very fine or diaphanous fabric or article.",
         "Right": 0,
         "Wrong": 0
     },
@@ -10188,8 +11484,20 @@
         "Wrong": 0
     },
     {
+        "Word": "Shuck",
+        "Definition": "\u2022 an outer covering such as a husk or pod, especially the husk of an ear of corn.\r\n\u2022 a person or thing regarded as worthless or contemptible.\r\n\u2022 used to express surprise, regret, irritation, or, in response to praise, self-deprecation.\r\n\u2022 remove the shucks from corn or shellfish.\r\n\u2022 cause (someone) to believe something that is not true; fool or tease.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Shunt",
-        "Definition": "\u2022 push or pull (a train or part of a train) from the main line to a\u00a0siding\u00a0or from one track to another\r\n\u2022 push or shove (someone or something).\r\n\u2022 direct or divert (someone or something) to a less important place or position.\r\n\u2022 ",
+        "Definition": "\u2022 push or pull (a train or part of a train) from the main line to a\u00a0siding\u00a0or from one track to another\r\n\u2022 push or shove (someone or something).\r\n\u2022 direct or divert (someone or something) to a less important place or position.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Simpatico",
+        "Definition": "\u2022 (of a person) likable and easy to get along with.\r\n\u2022 having or characterized by shared attributes or interests; compatible.",
         "Right": 0,
         "Wrong": 0
     },
@@ -10218,8 +11526,20 @@
         "Wrong": 0
     },
     {
+        "Word": "Skulk",
+        "Definition": "\u2022 keep out of sight, typically with a sinister or cowardly motive.\r\n\u2022 a group of foxes.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Slapdash",
         "Definition": "Hastily put together. done too hurriedly and carelessly.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Slate",
+        "Definition": "\u2022 a fine-grained gray, green, or bluish metamorphic rock easily split into smooth, flat pieces.\r\n\u2022 a flat piece of slate used as roofing material.\r\n\u2022 a bluish-gray color.\r\n\u2022 a range of something offered.\r\n\u2022 cover (something, especially a roof) with slates.\r\n\u2022 schedule; plan.\r\n\u2022 identify (a movie take) using a slate.",
         "Right": 0,
         "Wrong": 0
     },
@@ -10248,14 +11568,26 @@
         "Wrong": 0
     },
     {
+        "Word": "Smolder",
+        "Definition": "\u2022 burn slowly with smoke but no flame.\r\n\u2022 exist in a suppressed or concealed state.\r\n\u2022 show or feel barely suppressed anger, hatred, or another powerful emotion.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Smorgasbord",
         "Definition": "A buffet offering a variety of hot and cold meats, salads, hors d'oeuvres, etc.",
         "Right": 0,
         "Wrong": 0
     },
     {
+        "Word": "Smoulder",
+        "Definition": "\u2022 burn slowly with smoke but no flame.\r\n\u2022 smoke coming from a fire that is burning slowly without a flame.\r\n\u2022 show or feel barely suppressed anger, hatred, or another powerful emotion.\r\n\u2022 exist in a suppressed or concealed state.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Smug",
-        "Definition": "Self satisfied",
+        "Definition": "having or showing an excessive pride in oneself or one's achievements.",
         "Right": 0,
         "Wrong": 0
     },
@@ -10279,7 +11611,7 @@
     },
     {
         "Word": "Snivel",
-        "Definition": "cry and sniff in a feeble or fretful way.\r\n complain in a whining or tearful way.",
+        "Definition": "\u2022 cry and sniff in a feeble or fretful way.\r\n\u2022 complain in a whining or tearful way.",
         "Right": 0,
         "Wrong": 0
     },
@@ -10304,6 +11636,12 @@
     {
         "Word": "Solecism",
         "Definition": "Social blunder. a breach of good manners; a piece of incorrect behavior.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Solemn",
+        "Definition": "\u2022 formal and dignified.\r\n\u2022 not cheerful or smiling; serious.\r\n\u2022 characterized by deep sincerity.",
         "Right": 0,
         "Wrong": 0
     },
@@ -10362,6 +11700,18 @@
         "Wrong": 0
     },
     {
+        "Word": "Sought",
+        "Definition": "\u2022 attempt to find (something)\r\n\u2022 attempt or desire to obtain or achieve (something).\r\n\u2022 ask for (something) from someone.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Sound",
+        "Definition": "\u2022 vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear.\r\n\u2022 emit or cause to emit sound.\r\n\u2022 give an audible signal to indicate (something).\r\n\u2022 convey a specified impression when heard.\r\n\u2022 in good condition; not damaged, injured, or diseased.\r\n\u2022 financially secure.\r\n\u2022 .based on reason, sense, or judgment.\r\n\u2022 competent, reliable, or holding acceptable views.\r\n\u2022 (of sleep) deep and undisturbed.\r\n\u2022 severe\r\n\u2022 ascertain (the depth of water), typically by means of a line or pole or using sound echoes.\r\n\u2022 question (someone), typically in a cautious or discreet way, as to their opinions or feelings on a subject\r\n\u2022 a long surgical probe, typically with a curved, blunt end\r\n\u2022 a narrow stretch of water forming an inlet or connecting two wider areas of water such as two seas or a sea and a lake.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Sovereign",
         "Definition": "a supreme ruler, especially a monarch.\r\n possessing supreme or ultimate power.",
         "Right": 0,
@@ -10404,6 +11754,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Splendor",
+        "Definition": "magnificent and splendid appearance; grandeur.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Splenetic",
         "Definition": "highly irritable. bad-tempered; spiteful.",
         "Right": 0,
@@ -10412,6 +11768,12 @@
     {
         "Word": "Sporadic",
         "Definition": "occurring at irregular intervals or only in a few places; scattered or isolated.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Spry",
+        "Definition": "(especially of an old person) active; lively.",
         "Right": 0,
         "Wrong": 0
     },
@@ -10429,7 +11791,7 @@
     },
     {
         "Word": "Squalid",
-        "Definition": "(of a place) extremely dirty and unpleasant, especially as a result of poverty or neglect.\r\n showing or involving a contemptible lack of moral standards.",
+        "Definition": "\u2022 (of a place) extremely dirty and unpleasant, especially as a result of poverty or neglect.\r\n\u2022 showing or involving a contemptible lack of moral standards.",
         "Right": 0,
         "Wrong": 0
     },
@@ -10477,7 +11839,7 @@
     },
     {
         "Word": "Stanch",
-        "Definition": "stop or restrict (a flow of blood) from a wound.\r\n(of a wall) of strong or firm construction.\r\n(not to be confused with Staunch)",
+        "Definition": "\u2022 stop or restrict (a flow of blood) from a wound.\r\n\u2022 (of a wall) of strong or firm construction.\r\n\u2022 (not to be confused with Staunch)",
         "Right": 0,
         "Wrong": 0
     },
@@ -10490,6 +11852,12 @@
     {
         "Word": "Start",
         "Definition": "Move suddenly. \r\na sudden movement of surprise or alarm.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Stasis",
+        "Definition": "\u2022 a period or state of inactivity or equilibrium.\r\n\u2022 civil strife.",
         "Right": 0,
         "Wrong": 0
     },
@@ -10584,6 +11952,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Stoke",
+        "Definition": "\u2022 add coal or other solid fuel to (a fire, furnace, boiler, etc.).\r\n\u2022 encourage or incite (a strong emotion or tendency).\r\n\u2022 consume a large quantity of food or drink to give one energy.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Stolid",
         "Definition": "having little emotion. (of a person) calm, dependable, and showing little emotion or animation.",
         "Right": 0,
@@ -10644,6 +12018,18 @@
         "Wrong": 0
     },
     {
+        "Word": "Subliminal",
+        "Definition": "\u2022 not recognized or understood by the conscious mind, but still having an influence on it:\r\n\u2022 existing or operating below the threshold of consciousness;",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Subsequent",
+        "Definition": "\u2022 coming after something in time; following.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Subservient",
         "Definition": "\u2022 prepared to obey others unquestioningly.\r\n\u2022 less important; subordinate. \r\n\u2022 serving as a means to an end.",
         "Right": 0,
@@ -10681,7 +12067,7 @@
     },
     {
         "Word": "Subtle",
-        "Definition": "(especially of a change or distinction) so delicate or precise as to be difficult to analyze or describe.\r\n(of a mixture or effect) delicately complex and understated. \r\ncapable of making fine distinctions.",
+        "Definition": "\u2022 (especially of a change or distinction) so delicate or precise as to be difficult to analyze or describe.\r\n\u2022 (of a mixture or effect) delicately complex and understated. \r\n\u2022 capable of making fine distinctions.",
         "Right": 0,
         "Wrong": 0
     },
@@ -10746,6 +12132,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Supersede",
+        "Definition": "\u2022 to cause to be set aside\r\n\u2022 To force out of use as inferior\r\n\u2022 to take the place or position of\r\n\u2022 to displace in favor of another\r\n\u2022 to replace something, especially something older or more old-fashioned",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Supplant",
         "Definition": "\u2022 Take the place of\r\n\u2022 supersede and replace.",
         "Right": 0,
@@ -10800,6 +12192,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Swelter",
+        "Definition": "\u2022 (of a person or the atmosphere at a particular time or place) be uncomfortably hot.\r\n\u2022 an uncomfortably hot atmosphere.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Sybarite",
         "Definition": "a person who is self-indulgent in their fondness for sensuous luxury.",
         "Right": 0,
@@ -10820,6 +12218,18 @@
     {
         "Word": "Syncretize",
         "Definition": "attempt to amalgamate or reconcile (differing things, especially religious beliefs, cultural elements, or schools of thought).",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Syndicate",
+        "Definition": "\u2022 a group of individuals or organizations combined to promote some common interest.\r\n\u2022 control or manage by a syndicate.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Synopsis",
+        "Definition": "\u2022 a brief summary or general survey of something.\r\n\u2022 an outline of the plot of a book, play, movie, or episode of a television show.",
         "Right": 0,
         "Wrong": 0
     },
@@ -10909,7 +12319,7 @@
     },
     {
         "Word": "Temper",
-        "Definition": "the degree of hardness and elasticity in steel or other metal.\r\na person's state of mind seen in terms of their being angry or calm.\r\nimprove the hardness and elasticity of (steel or other metal) by reheating and then cooling it.\r\nact as a neutralizing or counterbalancing force to (something).",
+        "Definition": "\u2022 the degree of hardness and elasticity in steel or other metal.\r\n\u2022 a person's state of mind seen in terms of their being angry or calm.\r\n\u2022 improve the hardness and elasticity of (steel or other metal) by reheating and then cooling it.\r\n\u2022 act as a neutralizing or counterbalancing force to (something).",
         "Right": 0,
         "Wrong": 0
     },
@@ -10933,7 +12343,7 @@
     },
     {
         "Word": "Tenable",
-        "Definition": "able to be maintained or defended against attack or objection.\r\n(of an office, position, scholarship, etc.) able to be held or used.",
+        "Definition": "\u2022 able to be maintained or defended against attack or objection.\r\n\u2022 (of an office, position, scholarship, etc.) able to be held or used.",
         "Right": 0,
         "Wrong": 0
     },
@@ -10963,7 +12373,7 @@
     },
     {
         "Word": "Tentative",
-        "Definition": "not certain or fixed; provisional.\r\ndone without confidence; hesitant.",
+        "Definition": "\u2022 not certain or fixed; provisional.\r\n\u2022 done without confidence; hesitant.",
         "Right": 0,
         "Wrong": 0
     },
@@ -10992,6 +12402,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Testify",
+        "Definition": "\u2022 give evidence as a witness in a law court.\r\n\u2022 serve as evidence or proof of something's existing or being the case.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Thoroughgoing",
         "Definition": "\u2022 Absolute, complete\r\n\u2022 involving or attending to every detail or aspect of something.",
         "Right": 0,
@@ -11000,6 +12416,12 @@
     {
         "Word": "Thrifty",
         "Definition": "Wise with money. (of a person or their behavior) using money and other resources carefully and not wastefully",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Throb",
+        "Definition": "\u2022 beat or sound with a strong, regular rhythm; pulsate steadily.\r\n\u2022 a strong, regular beat or sound; a steady pulsation.\r\n\u2022 feel pain in a series of regular beats.",
         "Right": 0,
         "Wrong": 0
     },
@@ -11018,6 +12440,12 @@
     {
         "Word": "Timorous",
         "Definition": "shy. showing or suffering from nervousness, fear, or a lack of confidence.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Tipple",
+        "Definition": "\u2022 drink alcohol, especially habitually.\r\n\u2022 an alcoholic drink.",
         "Right": 0,
         "Wrong": 0
     },
@@ -11054,6 +12482,12 @@
     {
         "Word": "Tortuous",
         "Definition": "winding, twisty. full of twists and turns.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Tote",
+        "Definition": "\u2022 to carry by hand : bear on the person\r\n\u2022 haul, convey \r\n\u2022 Burden, load",
         "Right": 0,
         "Wrong": 0
     },
@@ -11172,6 +12606,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Tumescent",
+        "Definition": "\u2022 swollen or becoming swollen, especially as a response to sexual arousal.\r\n\u2022 (especially of language or literary style) pompous or pretentious.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Tumult",
         "Definition": "Chaos confusion",
         "Right": 0,
@@ -11185,7 +12625,7 @@
     },
     {
         "Word": "Turbid",
-        "Definition": "(of a liquid) cloudy, opaque, or thick with suspended matter.\r\nconfused or obscure in meaning or effect.",
+        "Definition": "\u2022 (of a liquid) cloudy, opaque, or thick with suspended matter.\r\n\u2022 confused or obscure in meaning or effect.",
         "Right": 0,
         "Wrong": 0
     },
@@ -11226,6 +12666,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Ululate",
+        "Definition": "\u2022 howl or wail as an expression of strong emotion, typically grief.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Umbrage",
         "Definition": "offense or annoyance.",
         "Right": 0,
@@ -11245,7 +12691,7 @@
     },
     {
         "Word": "Uncanny",
-        "Definition": "Stange, unsettling",
+        "Definition": "strange or mysterious, especially in an unsettling way.",
         "Right": 0,
         "Wrong": 0
     },
@@ -11262,6 +12708,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Underfed",
+        "Definition": "insufficiently fed or nourished.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Underlying",
         "Definition": "\u2022 significant as a cause or basis of something but not necessarily\u00a0manifest\u00a0or obvious.\r\n\u2022 lying or situated under something.",
         "Right": 0,
@@ -11269,7 +12721,7 @@
     },
     {
         "Word": "Undermine",
-        "Definition": "Weaken\r\nerode the base or foundation of (a rock formation).\r\nlessen the effectiveness, power, or ability of, especially gradually or insidiously.",
+        "Definition": "\u2022 Weaken\r\n\u2022 erode the base or foundation of (a rock formation).\r\n\u2022 lessen the effectiveness, power, or ability of, especially gradually or insidiously.",
         "Right": 0,
         "Wrong": 0
     },
@@ -11282,6 +12734,12 @@
     {
         "Word": "Underwrite",
         "Definition": "support financially",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Undulate",
+        "Definition": "\u2022 move or go with a smooth up-and-down motion.\r\n\u2022 (especially of a leaf) having a wavy surface or edge.",
         "Right": 0,
         "Wrong": 0
     },
@@ -11323,7 +12781,7 @@
     },
     {
         "Word": "Unilateral",
-        "Definition": "(of an action or decision) performed by or affecting only one person, group, or country involved in a particular situation, without the agreement of another or the others.\r\n\u2022 relating to, occurring on, or affecting only one side of an organ or structure, or of the body.",
+        "Definition": "\u2022 (of an action or decision) performed by or affecting only one person, group, or country involved in a particular situation, without the agreement of another or the others.\r\n\u2022 relating to, occurring on, or affecting only one side of an organ or structure, or of the body.",
         "Right": 0,
         "Wrong": 0
     },
@@ -11406,6 +12864,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Unwavering",
+        "Definition": "steady or resolute; not wavering.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Unyielding",
         "Definition": "\u2022 (of a mass or structure) not giving way to pressure; hard or solid.\r\n\u2022 (of a person or their behavior) unlikely to be swayed; resolute.",
         "Right": 0,
@@ -11460,6 +12924,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Vagabond",
+        "Definition": "\u2022 a person who wanders from place to place without a home or job.\r\n\u2022 wander about as or like a vagabond.\r\n\u2022 having no settled home.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Vain",
         "Definition": "\u2022 having or showing an\u00a0excessively\u00a0high opinion of one's appearance, abilities, or worth.\r\n\u2022 producing no result; useless.",
         "Right": 0,
@@ -11484,6 +12954,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Vantage",
+        "Definition": "\u2022 a place or position affording a good view of something.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Vapid",
         "Definition": "Offering nothing that is stimulating or challenging.",
         "Right": 0,
@@ -11496,8 +12972,20 @@
         "Wrong": 0
     },
     {
+        "Word": "Variegated",
+        "Definition": "\u2022 exhibiting different colors, especially as irregular patches or streaks.\r\n\u2022 (of a plant or foliage) having or consisting of leaves that are edged or patterned in a second color, especially white as well as green.\r\n\u2022 marked by variety.\"",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Vaunted",
         "Definition": "boasted about. Praised",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Veer",
+        "Definition": "change direction suddenly.",
         "Right": 0,
         "Wrong": 0
     },
@@ -11641,7 +13129,7 @@
     },
     {
         "Word": "Vie",
-        "Definition": "Compete for",
+        "Definition": "compete eagerly with someone in order to do or achieve something.",
         "Right": 0,
         "Wrong": 0
     },
@@ -11659,7 +13147,7 @@
     },
     {
         "Word": "Vignette",
-        "Definition": "a brief evocative description, account, or episode.\r\n a small illustration or portrait photograph which fades into its background without a definite border.",
+        "Definition": "\u2022 a brief evocative description, account, or episode.\r\n\u2022 a small illustration or portrait photograph which fades into its background without a definite border.",
         "Right": 0,
         "Wrong": 0
     },
@@ -11712,8 +13200,14 @@
         "Wrong": 0
     },
     {
+        "Word": "Vista",
+        "Definition": "\u2022 a pleasing view, especially one seen through a long, narrow opening.\r\n\u2022 a mental view of a succession of remembered or anticipated events.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Vitiate",
-        "Definition": "spoil or impair the quality or efficiency of.\r\ndestroy or impair the legal validity of. ",
+        "Definition": "\u2022 spoil or impair the quality or efficiency of.\r\n\u2022 destroy or impair the legal validity of. ",
         "Right": 0,
         "Wrong": 0
     },
@@ -11748,6 +13242,12 @@
         "Wrong": 0
     },
     {
+        "Word": "Vocation",
+        "Definition": "\u2022 a strong feeling of suitability for a particular career or occupation.\r\n\u2022 a person's employment or main occupation, especially regarded as particularly worthy and requiring great dedication.\r\n\u2022 a trade or profession.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Vociferous",
         "Definition": "Offensively loud. (especially of a person or speech) vehement or clamorous.",
         "Right": 0,
@@ -11773,7 +13273,7 @@
     },
     {
         "Word": "Voluble",
-        "Definition": "(of a person) talking fluently, readily, or incessantly.\r\n(of speech) characterized by fluency and readiness of utterance.",
+        "Definition": "\u2022 (of a person) talking fluently, readily, or incessantly.\r\n\u2022 (of speech) characterized by fluency and readiness of utterance.",
         "Right": 0,
         "Wrong": 0
     },
@@ -11792,6 +13292,12 @@
     {
         "Word": "Voracity",
         "Definition": "the quality or state of being ravenous or insatiable.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Vying",
+        "Definition": "present participle of vie. (compete eagerly with someone in order to do or achieve something.)",
         "Right": 0,
         "Wrong": 0
     },
@@ -11880,6 +13386,18 @@
         "Wrong": 1
     },
     {
+        "Word": "Wrench",
+        "Definition": "\u2022 a sudden violent twist or pull.\r\n\u2022 a feeling of sadness or distress caused by one's own or another's departure.\r\n\u2022 a tool used for gripping and turning nuts, bolts, pipes, etc.\r\n\u2022 a combination of a couple with a force along its axis.\r\n\u2022 pull or twist (someone or something) suddenly and violently.\r\n\u2022 injure (a part of the body) as a result of a sudden twisting movement.\r\n\u2022 distort to fit a particular theory or interpretation.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Writhing",
+        "Definition": "making twisting, squirming movements or contortions of the body.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
         "Word": "Wryly",
         "Definition": "in a way that expresses dry, especially mocking, humor.",
         "Right": 0,
@@ -11894,6 +13412,12 @@
     {
         "Word": "Xeric",
         "Definition": "(of an environment or habitat) containing little moisture; very dry.",
+        "Right": 0,
+        "Wrong": 0
+    },
+    {
+        "Word": "Yawn",
+        "Definition": "\u2022 involuntarily open one's mouth wide and inhale deeply, typically on account of tiredness or boredom.\r\n\u2022 (of an opening or space) be very large and wide.",
         "Right": 0,
         "Wrong": 0
     },
