@@ -5,17 +5,15 @@ const WordCard = ({ wordData, handleNext }) => {
     const [showDefinition, setShowDefinition] = useState(false); // State to track if the definition is visible
 
     const toggleDefinition = () => {
-    setShowDefinition(!showDefinition); // Toggle the visibility of the definition
+        setShowDefinition(!showDefinition); // Toggle the visibility of the definition
     };
 
     const handleKnow = () => {
-    // Handle the "Know" button click (could add custom logic if needed)
-    handleNext();
+        handleNext();
     };
 
     const handleDontKnow = () => {
-    // Handle the "Don't Know" button click (could add custom logic if needed)
-    handleNext();
+        handleNext();
     };
 
     // Reset showDefinition to false when wordData changes
@@ -25,37 +23,37 @@ const WordCard = ({ wordData, handleNext }) => {
     
 
     return (
-    <div className="word-card">
-        <div className="status">
-        <span className="wrong" style={{ color: "red" }}>
-            Wrong: {Wrong}
-        </span>
-        <span className="right" style={{ color: "green" }}>
-            Right: {Right}
-        </span>
+        <div className="word-card">
+            <div className="status">
+            <span className="wrong" style={{ color: "red" }}>
+                Wrong {Wrong}
+            </span>
+            <span className="right" style={{ color: "green" }}>
+                Right {Right}
+            </span>
+            </div>
+            <h2>{Word}</h2>
+            {showDefinition && (
+            <p
+                className="definition"
+                dangerouslySetInnerHTML={{
+                __html: Definition.replace(/\\u00a0/g, '&nbsp;').replace(/\n/g, '<br />'),
+                }}
+            ></p>
+            )}
+            <a href="#" className="show-definition-link" onClick={toggleDefinition}>
+            {showDefinition ? "Hide Definition" : "Show Definition"}
+            </a>
+            <div className="button-container">
+            <button className="dont-know-button" onClick={handleDontKnow}>
+                Don't Know
+            </button>
+            <button className="know-button" onClick={handleKnow}>
+                Know
+            </button>
+            </div>
         </div>
-        <h2>{Word}</h2>
-        {showDefinition && (
-        <p
-            className="definition"
-            dangerouslySetInnerHTML={{
-            __html: Definition.replace(/\\u00a0/g, '&nbsp;').replace(/\n/g, '<br />'),
-            }}
-        ></p>
-        )}
-        <a href="#" className="show-definition-link" onClick={toggleDefinition}>
-        {showDefinition ? "Hide Definition" : "Show Definition"}
-        </a>
-        <div className="button-container">
-        <button className="dont-know-button" onClick={handleDontKnow}>
-            Don't Know
-        </button>
-        <button className="know-button" onClick={handleKnow}>
-            Know
-        </button>
-        </div>
-    </div>
     );
-    };
+};
 
 export default WordCard;

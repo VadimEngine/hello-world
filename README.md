@@ -79,8 +79,17 @@ Install node_modules if missing
 TODO:
     -- Session stats
         - Track wrong/right counts for words and update UI
+            -Like wordle. Maybe use LocalStorage
         - See words practices this round
-        - Cleaner UI for web and mobile
-
+        - Cleaner UI for web and mobile 
+            - Side bar, on word select, hide side bar
+                - Maybe only on mobile or if the side bar covers the word card. Its fine onw wide browser  
+            - Easy csv to json command for words    
+            - Partial know button (yellow)
+            - Fix show button partial background
+            - keep side bar words aligned left
+            - Multiple choice for words
+            - Test in groups so studying doesnt feel forever
+            - Card switch animation
 
 Applicaiton Hosted at: https://vadimengine.github.io/hello-world/

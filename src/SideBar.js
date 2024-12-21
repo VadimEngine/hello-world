@@ -10,6 +10,7 @@ const Sidebar = ({ wordData, onSelectWord }) => {
 
   const handleWordClick = (word) => {
     onSelectWord(word); // Pass the selected word to the parent component
+    setIsOpen(false); // Close sidebar if click is outside
   };
 
   // Close sidebar when clicking outside of it (for mobile devices)
