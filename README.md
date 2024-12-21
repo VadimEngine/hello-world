@@ -76,5 +76,11 @@ My Notes
 Install node_modules if missing
 `npm install`
 
+TODO:
+    -- Session stats
+        - Track wrong/right counts for words and update UI
+        - See words practices this round
+        - Cleaner UI for web and mobile
+
 
 Applicaiton Hosted at: https://vadimengine.github.io/hello-world/
