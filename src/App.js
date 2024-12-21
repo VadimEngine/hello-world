@@ -17,8 +17,13 @@ function App() {
         return response.json();
       })
       .then((data) => {
-        setWordData(data);
-        setRandomWord(data); // Set the first random word
+        const updatedData = data.map((word) => ({
+          ...word,
+          Right: Number(localStorage.getItem(`${word.Word}-Right`) || 0),
+          Wrong: Number(localStorage.getItem(`${word.Word}-Wrong`) || 0),
+        }));
+        setWordData(updatedData);
+        setRandomWord(updatedData); // Set the first random word
       })
       .catch((error) => console.error("Error loading JSON:", error));
   }, []);
@@ -38,7 +43,27 @@ function App() {
 
   // Function to set the selected word from the Sidebar
   const handleSelectWord = (word) => {
-    setCurrentWord(word); // Update current word to the selected one
+    setCurrentWord(word);
+  };
+
+  // Function to update localStorage and state counts
+  const updateWordCounts = (word, isCorrect) => {
+    const keyRight = `${word.Word}-Right`;
+    const keyWrong = `${word.Word}-Wrong`;
+
+    const newRight = isCorrect ? word.Right + 1 : word.Right;
+    const newWrong = isCorrect ? word.Wrong : word.Wrong + 1;
+
+    localStorage.setItem(keyRight, newRight);
+    localStorage.setItem(keyWrong, newWrong);
+
+    setWordData((prevData) =>
+      prevData.map((item) =>
+        item.Word === word.Word
+          ? { ...item, Right: newRight, Wrong: newWrong }
+          : item
+      )
+    );
   };
 
   return (
@@ -46,9 +71,12 @@ function App() {
       <Sidebar wordData={wordData} onSelectWord={handleSelectWord} />
       <div className="word-card-container">
         <NavBar />
-        {/* Render the current word if loaded */}
         {currentWord ? (
-          <WordCard wordData={currentWord} handleNext={handleNext} />
+          <WordCard
+            wordData={currentWord}
+            handleNext={handleNext}
+            updateWordCounts={updateWordCounts}
+          />
         ) : (
           <p>Loading word...</p>
         )}
