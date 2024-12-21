@@ -9,7 +9,7 @@ function App() {
 
   // Fetch data from Dictionary.json
   useEffect(() => {
-    fetch("/Dictionary.json")
+    fetch("./Dictionary.json")
       .then((response) => {
         if (!response.ok) {
           throw new Error(`Failed to fetch: ${response.statusText}`);
