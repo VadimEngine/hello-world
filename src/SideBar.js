@@ -1,19 +1,39 @@
-import React, { useState } from "react";
+import React, { useState, useEffect, useRef } from "react";
 
 const Sidebar = ({ wordData, onSelectWord }) => {
   const [isOpen, setIsOpen] = useState(true); // State to toggle the sidebar
+  const sidebarRef = useRef(null); // Ref to detect clicks outside the sidebar
 
   const toggleSidebar = () => {
     setIsOpen(!isOpen);
   };
 
-  // Handle selecting a word from the sidebar
   const handleWordClick = (word) => {
     onSelectWord(word); // Pass the selected word to the parent component
   };
 
+  // Close sidebar when clicking outside of it (for mobile devices)
+  useEffect(() => {
+    const handleClickOutside = (event) => {
+      if (sidebarRef.current && !sidebarRef.current.contains(event.target)) {
+        setIsOpen(false); // Close sidebar if click is outside
+      }
+    };
+
+    // Add the event listener for clicks
+    document.addEventListener("mousedown", handleClickOutside);
+
+    // Cleanup the event listener on component unmount
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, []);
+
   return (
-    <div className={`sidebar ${isOpen ? "open" : "closed"}`}>
+    <div
+      ref={sidebarRef}
+      className={`sidebar ${isOpen ? "open" : "closed"}`}
+    >
       <button className="toggle-button" onClick={toggleSidebar}>
         {isOpen ? "Hide" : "Show"}
       </button>
