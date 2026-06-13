@@ -76,10 +76,15 @@ My Notes
 Install node_modules if missing
 `npm install`
 
+Deploy:
+`npm run deploy`
+
 TODO:
     -- Session stats
         - Track wrong/right counts for words and update UI
             -Like wordle. Maybe use LocalStorage
+            - have a word list and a separate map of right/wrong counts for this session
+                - reset stats button
         - See words practices this round
         - Cleaner UI for web and mobile 
             - Side bar, on word select, hide side bar
@@ -91,5 +96,22 @@ TODO:
             - Multiple choice for words
             - Test in groups so studying doesnt feel forever
             - Card switch animation
+                https://www.hover.dev/components
+                rotate to next word
+                https://www.youtube.com/watch?v=nVsvcu93488
+                https://www.youtube.com/watch?v=qrZFo1jLG-4 (easier?)
+                https://www.youtube.com/watch?v=OenXGHmL48U
 
-Applicaiton Hosted at: https://vadimengine.github.io/hello-world/
+            TODO convert into just a flash card app
+                - Upload a csv/json of cards
+                    - Title
+                    - Front-extra
+                    - Back
+                - Swipe left/right for know/dont know
+                - Stats page
+                - save the uploaded cards in the session
+                - save stats
+                - show all cards in side bar
+
+
+Application Hosted at: https://vadimengine.github.io/hello-world/

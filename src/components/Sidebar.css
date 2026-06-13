@@ -1,0 +1,460 @@
+/* ── Desktop: sidebar lives in the flex flow ── */
+.sidebar {
+  position: relative;
+  flex-shrink: 0;
+  width: var(--sidebar-w);
+  height: 100vh;
+  background: rgba(255, 255, 255, 0.03);
+  border-right: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  transition: width var(--transition);
+  z-index: 30;
+}
+
+.sidebar.closed {
+  width: var(--sidebar-w-closed);
+}
+
+.sidebar.closed .sidebar-content {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.sidebar-toggle {
+  position: absolute;
+  top: 14px;
+  right: 8px;
+  width: 28px;
+  height: 28px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--text-muted);
+  font-size: 1.1rem;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background var(--transition), color var(--transition);
+  z-index: 1;
+  flex-shrink: 0;
+}
+
+.sidebar-toggle:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--text);
+}
+
+.sidebar-content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 14px 10px 14px 12px;
+  padding-right: 44px;
+  overflow: hidden;
+  min-width: var(--sidebar-w);
+  opacity: 1;
+  transition: opacity var(--transition);
+}
+
+/* ── Tabs ── */
+.sidebar-tabs {
+  display: flex;
+  gap: 2px;
+  margin-bottom: 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 3px;
+}
+
+.sidebar-tab {
+  flex: 1;
+  padding: 5px 0;
+  font-size: 0.78rem;
+  font-weight: 500;
+  background: none;
+  border: none;
+  border-radius: 6px;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all var(--transition);
+}
+
+.sidebar-tab:hover {
+  color: var(--text);
+}
+
+.sidebar-tab.active {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--text);
+}
+
+/* ── Stats panel ── */
+.stats-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding-top: 4px;
+}
+
+.stats-bar {
+  display: flex;
+  height: 8px;
+  border-radius: 6px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.06);
+  margin: 4px 0 8px;
+}
+
+.stats-bar-known {
+  background: var(--know);
+  transition: width 0.4s ease;
+}
+
+.stats-bar-struggling {
+  background: var(--dontknow);
+  transition: width 0.4s ease;
+}
+
+.stats-bar-unseen {
+  background: rgba(255, 255, 255, 0.15);
+  transition: width 0.4s ease;
+}
+
+.stat-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 0;
+}
+
+.stat-row.total {
+  margin-bottom: 2px;
+}
+
+.stat-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.dot-known     { background: var(--know); }
+.dot-struggling { background: var(--dontknow); }
+.dot-unseen    { background: rgba(255, 255, 255, 0.25); }
+
+.stat-label {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  flex: 1;
+}
+
+.stat-count {
+  font-size: 0.82rem;
+  color: var(--text);
+  min-width: 24px;
+  text-align: right;
+}
+
+.stat-pct {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  min-width: 34px;
+  text-align: right;
+}
+
+.stat-value {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.stat-value.accent {
+  color: var(--accent);
+}
+
+.stats-divider {
+  height: 1px;
+  background: var(--border);
+  margin: 6px 0;
+}
+
+.search-wrap {
+  position: relative;
+  margin-bottom: 8px;
+}
+
+.search-input {
+  width: 100%;
+  padding: 7px 30px 7px 10px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--text);
+  font-size: 0.83rem;
+  outline: none;
+  transition: border-color var(--transition);
+}
+
+.search-input::placeholder {
+  color: var(--text-muted);
+}
+
+.search-input:focus {
+  border-color: rgba(255, 255, 255, 0.22);
+}
+
+.search-clear {
+  position: absolute;
+  right: 6px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 2px 4px;
+  border-radius: 4px;
+  transition: color var(--transition);
+}
+
+.search-clear:hover {
+  color: var(--text);
+}
+
+.sidebar-filters {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 10px;
+}
+
+.filter-btn {
+  flex: 1;
+  padding: 5px 2px;
+  font-size: 0.7rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all var(--transition);
+  white-space: nowrap;
+}
+
+.filter-btn:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text);
+}
+
+.filter-btn.active {
+  background: var(--accent-dim);
+  border-color: var(--accent-border);
+  color: var(--accent);
+}
+
+/* ── Alphabetical word list with jump bar ── */
+.word-list-wrap {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  gap: 2px;
+}
+
+.word-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  flex: 1;
+  position: relative; /* makes it the offsetParent for li children */
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.14) transparent;
+}
+
+.word-list::-webkit-scrollbar {
+  width: 4px;
+}
+
+.word-list::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.14);
+  border-radius: 4px;
+}
+
+/* Zero-height anchor used for scroll targeting (avoids sticky offsetTop quirks) */
+.section-anchor {
+  height: 0;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+/* Sticky letter section headers inside the scrollable list */
+.word-section-header {
+  position: sticky;
+  top: 0;
+  list-style: none;
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  background: #141414;
+  padding: 4px 8px 3px;
+  border-bottom: 1px solid var(--border);
+  z-index: 1;
+}
+
+.sidebar-empty-li {
+  list-style: none;
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  text-align: center;
+  padding: 24px 8px;
+}
+
+/* A–Z jump bar */
+.alpha-bar {
+  display: flex;
+  flex-direction: column;
+  width: 14px;
+  flex-shrink: 0;
+  overflow: hidden;
+  padding: 2px 0;
+}
+
+.alpha-btn {
+  flex: 1;
+  min-height: 0;
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 0.52rem;
+  font-weight: 600;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.15);
+  cursor: default;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 2px;
+  transition: color var(--transition), background var(--transition);
+}
+
+.alpha-btn.available {
+  color: var(--accent);
+  cursor: pointer;
+}
+
+.alpha-btn.available:hover {
+  background: var(--accent-dim);
+  color: var(--text);
+}
+
+.alpha-btn:disabled {
+  pointer-events: none;
+}
+
+.word-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 8px;
+  border-radius: 6px;
+  cursor: pointer;
+  gap: 6px;
+  transition: background var(--transition);
+}
+
+.word-item:hover {
+  background: var(--surface);
+}
+
+.word-name {
+  font-size: 0.85rem;
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.word-score {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  font-size: 0.72rem;
+  flex-shrink: 0;
+}
+
+.score-right {
+  color: var(--know);
+}
+
+.score-sep {
+  color: var(--text-muted);
+}
+
+.score-wrong {
+  color: var(--dontknow);
+}
+
+.sidebar-empty {
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  text-align: center;
+  margin-top: 24px;
+}
+
+/* ── Mobile: fixed overlay drawer ── */
+.sidebar-backdrop {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  /* Backdrop dims the content behind the open sidebar */
+  .sidebar-backdrop {
+    display: block;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
+    z-index: 29;
+  }
+
+  .word-section-header {
+    background: #1c1c1c;
+  }
+
+  /* Sidebar becomes a full-height drawer with a solid background */
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: var(--sidebar-w) !important;
+    background: #1c1c1c;
+    transform: translateX(0);
+    transition: transform var(--transition);
+    border-right: 1px solid var(--border);
+    box-shadow: 4px 0 24px rgba(0, 0, 0, 0.6);
+  }
+
+  .sidebar.closed {
+    transform: translateX(-100%);
+  }
+
+  /* Hide the desktop ‹/› toggle — Navbar button handles open on mobile */
+  .sidebar-toggle {
+    display: none;
+  }
+
+  /* Remove right padding reserved for desktop toggle */
+  .sidebar-content {
+    padding-right: 14px;
+  }
+}

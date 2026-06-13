@@ -1,4 +1,17 @@
-/* Global Styles */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -6,255 +19,27 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #121212; /* Dark background */
-  color: #e0e0e0; /* Lighter text color */
+  background: #111;
+  color: #e8e8e8;
 }
 
-/* App Container */
-.App {
-  text-align: center;
-}
-
-/* App Header */
-.App-header {
-  background-color: #1f1f1f; /* Darker background for header */
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-/* App Link */
-.App-link {
-  color: #61dafb;
-}
-
-/* Keyframe for Logo Animation */
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-/* Side bar */
-.sidebar {
-  width: 250px;
-  height: 100%;
-  position: fixed;
-  top: 0;
-  left: 0;
-  background-color: #333; /* Dark background for sidebar */
-  color: white;
-  z-index: 10;
-  transition: all 0.3s ease;
-  padding: 20px;
-  display: flex;
-  flex-direction: column;
-}
-
-.sidebar.closed {
-  width: 0;
-  padding: 0;
-}
-
-.sidebar.open {
-  width: 250px;
-}
-
-.toggle-button {
-  background-color: #007BFF;
-  color: white;
-  border: none;
-  padding: 10px;
-  cursor: pointer;
-  width: 100%;
-  margin-bottom: 20px;
-}
-
-.menu {
-  list-style: none;
-  padding: 0;
-  overflow-y: auto;
-  max-height: 80vh;
-}
-
-/* Scrollbar Styles */
-.menu::-webkit-scrollbar {
-  width: 8px;
-}
-
-.menu::-webkit-scrollbar-thumb {
-  background-color: #555;
-  border-radius: 5px;
-  border: 2px solid #333;
-}
-
-.menu::-webkit-scrollbar-thumb:hover {
-  background-color: #777;
-}
-
-.menu::-webkit-scrollbar-track {
-  background-color: #333;
-  border-radius: 5px;
-}
-
-/* List item styles */
-.menu li {
-  margin: 10px 0;
-  padding: 5px 10px;
-  background-color: #444; /* Dark list item background */
-  border-radius: 5px;
-}
-
-.menu li:hover {
-  background-color: #555;
-}
-
-/* Word Card */
-.word-card {
-  position: relative;
-  max-width: 400px;
-  margin: 20px auto;
-  padding: 20px;
-  border: 1px solid #555; /* Darker border */
-  border-radius: 8px;
-  background-color: #222; /* Dark background for card */
-  color: #e0e0e0; /* Lighter text for readability */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-/* Styling for the "Know" and "Don't Know" buttons */
-.button-container {
-  display: flex;
-  gap: 15px;
-  margin-top: 20px;
-}
-
-.know-button {
-  background-color: green;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-.dont-know-button {
-  background-color: red;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-.know-button:hover,
-.dont-know-button:hover {
-  opacity: 0.8;
-}
-
-.show-definition-link {
-  color: #007bff;
-  cursor: pointer;
-  text-decoration: underline;
-  margin-top: 10px;
-  display: inline-block;
-}
-
-.show-definition-link:hover {
-  text-decoration: none;
-  color: #0056b3;
-}
-
-.status {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  display: flex;
-  justify-content: space-between;
-  width: 100px;
-}
-
-.status span {
-  font-weight: bold;
-}
-
-.right {
-  color: green;
-}
-
-.wrong {
-  color: red;
-}
-
-.definition {
-  text-align: left;
-  margin: 10px 0;
-}
-
-/* Nav bar */
-.navbar {
-  display: flex;
-  justify-content: center; /* Center content horizontally */
-  align-items: center; /* Center content vertically */
-  padding: 10px 20px;
-  background-color: #280fb5;
-  color: white;
-  position: relative;
-  z-index: 9;
-}
-
-.navbar-title {
-  margin: 0;
-}
-
-.hamburger-button {
-  position: absolute;
-  right: 20px; /* Keep the button on the right */
-  background: none;
-  border: none;
-  cursor: pointer;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-}
-
-.hamburger-line {
-  width: 25px;
-  height: 3px;
-  background-color: white;
-}
-
-.menu {
-  position: absolute;
-  top: 50px;
-  right: 20px;
-  background-color: #444;
-  color: white;
-  border-radius: 5px;
-  padding: 10px;
-}
-
-.menu ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.menu li {
-  padding: 5px 10px;
-  cursor: pointer;
-}
-
-.menu li:hover {
-  background-color: #555;
+:root {
+  --bg: #111;
+  --surface: rgba(255, 255, 255, 0.05);
+  --border: rgba(255, 255, 255, 0.09);
+  --text: #e8e8e8;
+  --text-muted: rgba(232, 232, 232, 0.5);
+  --accent: #4ade80;
+  --accent-dim: rgba(74, 222, 128, 0.1);
+  --accent-border: rgba(74, 222, 128, 0.22);
+  --know: #4ade80;
+  --know-dim: rgba(74, 222, 128, 0.12);
+  --dontknow: #f87171;
+  --dontknow-dim: rgba(248, 113, 113, 0.12);
+  --sidebar-w: 260px;
+  --sidebar-w-closed: 44px;
+  --nav-h: 52px;
+  --radius: 8px;
+  --radius-lg: 12px;
+  --transition: 0.18s ease;
 }
