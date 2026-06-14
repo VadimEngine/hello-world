@@ -11,6 +11,9 @@
     "react-transition-group": "^4.4.5"
   },
   "scripts": {
+    "csv-to-dict": "node scripts/csvToDictionary.js",
+    "generate-lists": "node scripts/generateWordLists.js",
+    "update-dictionary": "npm run csv-to-dict && npm run generate-lists",
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

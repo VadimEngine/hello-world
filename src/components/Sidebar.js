@@ -4,7 +4,7 @@ import "./Sidebar.css";
 const FILTERS = ["All", "Known", "Unknown"];
 const ALL_LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
-const Sidebar = ({ wordData, onSelectWord, isOpen, onToggle }) => {
+const Sidebar = ({ wordData, onSelectWord, isOpen, onToggle, wordLists, activeListId, onSelectList }) => {
   const [activeTab, setActiveTab] = useState("words");
   const [filter, setFilter] = useState("All");
   const [search, setSearch] = useState("");
@@ -27,14 +27,21 @@ const Sidebar = ({ wordData, onSelectWord, isOpen, onToggle }) => {
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, [isOpen, onToggle]);
 
-  const filteredWords = wordData.filter((w) => {
+  const activeListIndices = activeListId !== null
+    ? new Set((wordLists.find((l) => l.id === activeListId) || { indices: [] }).indices)
+    : null;
+
+  const baseWords = activeListIndices
+    ? wordData.filter((_, i) => activeListIndices.has(i))
+    : wordData;
+
+  const filteredWords = baseWords.filter((w) => {
     if (filter === "Known" && !(w.Right > w.Wrong)) return false;
     if (filter === "Unknown" && !(w.Right <= w.Wrong)) return false;
     if (search) return w.Word.toLowerCase().includes(search.toLowerCase());
     return true;
   });
 
-  // Group by first letter for alphabetical navigation
   const grouped = filteredWords.reduce((acc, word) => {
     const letter = word.Word[0]?.toUpperCase() || "#";
     if (!acc[letter]) acc[letter] = [];
@@ -47,13 +54,10 @@ const Sidebar = ({ wordData, onSelectWord, isOpen, onToggle }) => {
     const el = sectionRefs.current[letter];
     const list = wordListRef.current;
     if (el && list) {
-      // offsetTop is relative to the ul (position:relative), giving the natural
-      // pre-sticky position — works correctly for both up and down jumps
       list.scrollTo({ top: el.offsetTop, behavior: "smooth" });
     }
   };
 
-  // Stats calculations
   const total = wordData.length;
   const known = wordData.filter((w) => w.Right > w.Wrong).length;
   const unseen = wordData.filter((w) => w.Right === 0 && w.Wrong === 0).length;
@@ -89,6 +93,19 @@ const Sidebar = ({ wordData, onSelectWord, isOpen, onToggle }) => {
               onClick={() => setActiveTab("stats")}
             >
               Stats
+            </button>
+            <button
+              className={`sidebar-tab ${activeTab === "lists" ? "active" : ""}`}
+              onClick={() => setActiveTab("lists")}
+            >
+              Lists
+            </button>
+            <button
+              className="sidebar-close-btn"
+              onClick={onToggle}
+              aria-label="Close sidebar"
+            >
+              &#10005;
             </button>
           </div>
 
@@ -132,7 +149,6 @@ const Sidebar = ({ wordData, onSelectWord, isOpen, onToggle }) => {
                     if (!words) return null;
                     return (
                       <React.Fragment key={letter}>
-                        {/* Non-sticky anchor — offsetTop is always the natural layout position */}
                         <li
                           className="section-anchor"
                           ref={(el) => { sectionRefs.current[letter] = el; }}
@@ -162,7 +178,6 @@ const Sidebar = ({ wordData, onSelectWord, isOpen, onToggle }) => {
                   )}
                 </ul>
 
-                {/* A–Z jump bar — hidden while search is active */}
                 {!search && (
                   <div className="alpha-bar">
                     {ALL_LETTERS.map((letter) => (
@@ -239,6 +254,46 @@ const Sidebar = ({ wordData, onSelectWord, isOpen, onToggle }) => {
               {accuracy === null && (
                 <p className="sidebar-empty">No answers yet</p>
               )}
+            </div>
+          )}
+
+          {activeTab === "lists" && (
+            <div className="lists-panel">
+              <button
+                className={`list-entry ${activeListId === null ? "active" : ""}`}
+                onClick={() => onSelectList(null)}
+              >
+                <div className="list-entry-top">
+                  <span className="list-entry-name">All words</span>
+                  <span className="list-entry-stat">{known} / {total} known</span>
+                </div>
+              </button>
+
+              <div className="lists-divider" />
+
+              {wordLists.map((list) => {
+                const listWords = list.indices.map((i) => wordData[i]).filter(Boolean);
+                const listKnown = listWords.filter((w) => w.Right > w.Wrong).length;
+                const listTotal = listWords.length;
+                return (
+                  <button
+                    key={list.id}
+                    className={`list-entry ${activeListId === list.id ? "active" : ""}`}
+                    onClick={() => onSelectList(list.id)}
+                  >
+                    <div className="list-entry-top">
+                      <span className="list-entry-name">{list.name}</span>
+                      <span className="list-entry-stat">{listKnown} / {listTotal} known</span>
+                    </div>
+                    <div className="list-entry-bar">
+                      <div
+                        className="list-entry-bar-fill"
+                        style={{ width: listTotal > 0 ? `${(listKnown / listTotal) * 100}%` : "0%" }}
+                      />
+                    </div>
+                  </button>
+                );
+              })}
             </div>
           )}
         </div>

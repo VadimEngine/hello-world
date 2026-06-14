@@ -50,13 +50,39 @@
   margin: -6px 0 0;
 }
 
+.word-title-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 8px 0 0;
+}
+
 .word-title {
   font-size: 2rem;
   font-weight: 700;
   color: var(--text);
-  margin: 8px 0 0;
+  margin: 0;
   text-align: center;
   line-height: 1.2;
+}
+
+.speak-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 6px;
+  border-radius: var(--radius);
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: color var(--transition), background var(--transition);
+}
+
+.speak-btn:hover {
+  color: var(--text);
+  background: var(--surface);
 }
 
 .reveal-btn {
