@@ -46,7 +46,7 @@ const Navbar = ({
         </span>
       </button>
 
-      <h1 className="navbar-title">Vocabulary</h1>
+      <h1 className="navbar-title">Verbadim</h1>
 
       <div className="navbar-menu-wrap" ref={menuRef}>
         <button
