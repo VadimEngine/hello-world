@@ -1,6 +1,6 @@
 {
-  "homepage": "http://VadimEngine.github.io/hello-world",
-  "name": "hello-world",
+  "homepage": "http://VadimEngine.github.io/verbadim",
+  "name": "verbadim",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
