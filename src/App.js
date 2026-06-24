@@ -13,6 +13,17 @@ const getPool = (data, activeListId, wordLists) => {
   return list.indices.map((i) => data[i]).filter(Boolean);
 };
 
+// Picks the next word: avoids repeating current, biases 70% toward unseen words.
+const pickNext = (pool, current) => {
+  const candidates = current ? pool.filter((w) => w.Word !== current.Word) : pool;
+  if (candidates.length === 0) return current ?? pool[0] ?? null;
+  const unknown = candidates.filter((w) => (w.Right === 0 && w.Wrong === 0) || w.Wrong > w.Right);
+  if (unknown.length > 0 && Math.random() < 0.7) {
+    return unknown[Math.floor(Math.random() * unknown.length)];
+  }
+  return candidates[Math.floor(Math.random() * candidates.length)];
+};
+
 function App() {
   const [wordData, setWordData] = useState([]);
   const [wordLists, setWordLists] = useState([]);
@@ -98,7 +109,7 @@ function App() {
   const handleNext = () => {
     setWordData((prev) => {
       const pool = getPool(prev, activeListId, wordLists);
-      if (pool.length > 0) setCurrentWord(pool[Math.floor(Math.random() * pool.length)]);
+      setCurrentWord((cur) => pickNext(pool, cur));
       return prev;
     });
   };
@@ -111,7 +122,7 @@ function App() {
   const handleSelectList = (id) => {
     setActiveListId(id);
     const pool = getPool(wordData, id, wordLists);
-    if (pool.length > 0) setCurrentWord(pool[Math.floor(Math.random() * pool.length)]);
+    setCurrentWord((cur) => pickNext(pool, cur));
   };
 
   const updateWordCounts = (word, isCorrect) => {
